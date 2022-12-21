@@ -18,11 +18,6 @@
 	2. Stream Processing
 	3. Putting Everything Together
 
-> **Side Note**
-> Common Wisdom (Page 18):
-> Horizontally Scale an Application
-> Vertically Scale a Database (Single Node)
-
 # I. Foundations of Data Systems
 
 ## Overview
@@ -43,20 +38,43 @@
 - Software Errors
 - Human Errors
 
-**Keywords**
-*faults, fault-tolerant, resilient, failure, Chaos Monkey, rolling upgrades, sandbox, telemetry*
+> **Keywords**
+> *faults, fault-tolerant, resilient, failure, Chaos Monkey, rolling upgrades, sandbox, telemetry*
 
 ### Scalability
 - Describing Load
 - Measuring Performance
 - Coping with Load
 
-**Keywords**
-*load parameters, throughput, response time, distribution, outliers, arithmetic mean, percentiles, median, 50th percentile, tail latencies, service level objectives, service level agreements, head-of-line blocking, tail latency amplification, shared-nothing, elastic, magic scaling sauce*
+> **Side Note**
+> Common Wisdom: Until really necessary for costs or requirements, keep your database on a single node and scale it vertically, and scale your application horizontally.
+
+> **Keywords**
+> *load parameters, throughput, response time, distribution, outliers, arithmetic mean, percentiles, median, 50th percentile, tail latencies, service level objectives, service level agreements, head-of-line blocking, tail latency amplification, shared-nothing, elastic, magic scaling sauce*
 
 ### Maintainability
 - Operability
 - Simplicity
 - Evolvability
 
-**Keywords**
+> **Keywords**
+
+___
+
+## Data Models & Query Languages
+## Storage Engines
+## Data Encoding Formats (Serialization)
+
+# II. Distributed Systems
+
+## Replication
+## Partitioning/Sharding
+## Transactions
+## Detailed Problems
+## Consistency/Consensus
+
+# III. Derived Datasets
+
+## Batch Processing
+## Stream Processing
+## Putting Everything Together
