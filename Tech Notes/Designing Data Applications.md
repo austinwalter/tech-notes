@@ -1,12 +1,12 @@
 # Outline
-## I. Foundations of Data Systems
-1. Overview
-	- Reliability
-	- Scalability
-	- Maintainability
-2. Data Models & Query Languages
-3. Storage Engines
-4. Data Encoding Formats (Serialization)
+1. Foundations of Data Systems
+	a. Overview
+		- Reliability
+		- Scalability
+		- Maintainability
+	1. Data Models & Query Languages
+1. Storage Engines
+2. Data Encoding Formats (Serialization)
 
 ## II. Distributed Systems
 1. Replication
@@ -46,14 +46,7 @@
 - Human Errors
 
 **Keywords**
-- *faults*
-- *fault-tolerant*
-- *resilient*
-- *failure*
-- *Chaos Monkey*
-- *rolling upgrades*
-- *sandbox*
-- *telemetry*
+*faults, fault-tolerant, resilient, failure, Chaos Monkey, rolling upgrades, sandbox, telemetry*
 
 ### Scalability
 - Describing Load
@@ -61,7 +54,7 @@
 - Coping with Load
 
 **Keywords**
-*load parameters, throughput, response time, distribution, outliers, arithmetic mean, percentiles, median, 50th percentile, tail latencies, service level objectives, service level agreements, head-of-line blocking, tail latency amplification
+*load parameters, throughput, response time, distribution, outliers, arithmetic mean, percentiles, median, 50th percentile, tail latencies, service level objectives, service level agreements, head-of-line blocking, tail latency amplification, shared-nothing, elastic, magic scaling sauce*
 
 ### Maintainability
 - Operability
@@ -69,7 +62,3 @@
 - Evolvability
 
 **Keywords**
-* shared-nothing
-* elastic
-* magic scaling sauce
- 
