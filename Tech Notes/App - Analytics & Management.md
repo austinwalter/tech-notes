@@ -1,9 +1,9 @@
-# Analytics & Managment App
+# Analytics & Management App
 * Main Application Admin
-* Jobs/Workers Managment
+* Jobs/Workers Management
 * Search Indexing Visualization
-* Centralized Logging Managment
-* CI/CD Managment
+* Centralized Logging Management
+* CI/CD Management
 	* Feature Toggles
 	* Testing
 * Error Telemetry

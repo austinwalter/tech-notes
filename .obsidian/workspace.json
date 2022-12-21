@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/Designing Data Applications.md"
+              }
             }
           }
         ]
@@ -109,20 +111,21 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "3e2f4c631b8c0b06",
   "lastOpenFiles": [
-    "Recipes/Candy - Nougat.md",
+    "Tech Notes/App - Fullstack Checklist.md",
+    "Tech Notes/App - Frontend Boilerplate.md",
+    "Tech Notes/App - Backend Boilerplate.md",
+    "Tech Notes/App - Analytics & Management.md",
     "Tech Notes/Designing Data Applications.md",
+    "Recipes/Candy - Nougat.md",
     "Recipes/Candy - Nougat Notes.md",
     "Recipes/Candy - Sugar Syrup Notes.md",
     "Recipes/Drinks.md",
-    "Other - Andrew & Paula.md",
-    "Other - Care Package.md",
-    "Amazon Replacements.md",
-    "Task Managment Apps.md",
-    "Credder/Credder - FAQ.md"
+    "Other - Andrew & Paula.md"
   ]
 }

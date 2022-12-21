@@ -12,6 +12,5 @@
 2. Partitioning/Sharding
 3. Transactions
 4. Detailed Problems
-5. Consistency/Concensus
+5. Consistency/Consensus
 
-prolbem
