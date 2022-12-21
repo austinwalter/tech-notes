@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "d12eed92d6d1efd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bbd9f83555f139",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3af49fd2e92dda5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b53277340415593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7af3ad1308b965f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8692409d45564531",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "409cc02600cb8dd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a6f6a8686a87c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02dea07c18850060",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e2bbd9f83555f139",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Media - Create Server Image.md",
+    "Other - Books.md",
+    "Other - Andrew & Paula.md",
+    "Other - Movies.md",
+    "Other - TV Shows.md",
+    "Other - Task Managment Apps.md",
+    "Notes - Company Comparisons.md",
+    "Notes - Interviewing.md",
+    "Notes - Machine Learning.md"
+  ]
+}
