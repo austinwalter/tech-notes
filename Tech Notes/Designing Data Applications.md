@@ -1,4 +1,5 @@
-## I. Fundamentals
+# Outline
+## I. Foundations of Data Systems
 1. Overview
 	- Reliability
 	- Scalability
@@ -24,13 +25,18 @@
 > Horizontally Scale an Application
 > Vertically Scale a Database (Single Node)
 
-# Foundations of Data Systems
+# I. Foundations of Data Systems
 
-Types of Data Systems | --- | Three Main System Concerns
---- | --- | ---
-Databases | | Reliability
-Caches | | Scalability
-Search Indexes | | Maintainability 
-Stream Processing | | 
-Batch Processing | | 
+## Overview
 
+**Three Main System Concerns**
+- Reliability
+- Scalability
+- Maintainability 
+
+## Types of Data Systems
+- Databases
+- Caches
+- Search Indexes
+- Stream Processing
+- Batch Processing
