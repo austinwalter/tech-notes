@@ -29,18 +29,47 @@
 
 ## Overview
 
-**Types of Data Systems**
-- Databases
-- Caches
-- Search Indexes
-- Stream Processing
-- Batch Processing
-
-**Three Main System Concerns**
-- Reliability
-- Scalability
-- Maintainability 
+- Three Main System Concerns
+	- Reliability
+	- Scalability
+	- Maintainability 
+- Types of Data Systems
+	- Databases
+	- Caches
+	- Search Indexes
+	- Stream Processing
+	- Batch Processing
 
 ### Reliability
+- Hardware Faults
+- Software Errors
+- Human Errors
+
+**Keywords**
+- *faults*
+- *fault-tolerant*
+- *resilient*
+- *failure*
+- *Chaos Monkey*
+- *rolling upgrades*
+- *sandbox*
+- *telemetry*
+
 ### Scalability
-### Maintainability 
+- Describing Load
+- Measuring Performance
+- Coping with Load
+
+**Keywords**
+*load parameters, throughput, response time, distribution, outliers, arithmetic mean, percentiles, median, 50th percentile, tail latencies, service level objectives, service level agreements, head-of-line blocking, tail latency amplification
+
+### Maintainability
+- Operability
+- Simplicity
+- Evolvability
+
+**Keywords**
+* shared-nothing
+* elastic
+* magic scaling sauce
+ 
