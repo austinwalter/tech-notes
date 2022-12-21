@@ -29,14 +29,18 @@
 
 ## Overview
 
-**Three Main System Concerns**
-- Reliability
-- Scalability
-- Maintainability 
-
-## Types of Data Systems
+**Types of Data Systems**
 - Databases
 - Caches
 - Search Indexes
 - Stream Processing
 - Batch Processing
+
+**Three Main System Concerns**
+- Reliability
+- Scalability
+- Maintainability 
+
+### Reliability
+### Scalability
+### Maintainability 
