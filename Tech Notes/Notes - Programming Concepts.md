@@ -37,7 +37,7 @@
 * Sequential loops = addition
 * Nested loops = multiplication
 * *$O(branches^{depth})$
-* Amoritization of time
+* Amortization of time
 	Amortized time is the way to express the time complexity when an algorithm has very bad time complexity only once in a while and good time complexity most of time
 
 ![[big-o-cheat-sheet.png]]
