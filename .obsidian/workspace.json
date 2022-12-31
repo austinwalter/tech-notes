@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45cbb24cb7a3dba0",
+        "id": "d021132a433fb15f",
         "type": "tabs",
         "children": [
           {
-            "id": "917b57b50c5b9297",
+            "id": "6a76614d9f14437b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Skiing - Dryland Training.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Skiing - Dryland Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Skiing - Dryland Training.md"
               }
             }
           }
@@ -115,8 +115,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "917b57b50c5b9297",
+  "active": "6a76614d9f14437b",
   "lastOpenFiles": [
+    "Skiing - Dryland Training.md",
     "Tech Notes/Text Recognition.md",
     "Pet Info.md",
     "Other - Care Package.md",
@@ -125,7 +126,6 @@
     "Tech Notes/Notes - Machine Learning.md",
     "Tech Notes/Notes - Product Managment.md",
     "Tech Notes/Notes - Programming Concepts.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Tech Notes/Designing Data Applications.md"
+    "Interviewing/Notes - Interviewing.md"
   ]
 }
