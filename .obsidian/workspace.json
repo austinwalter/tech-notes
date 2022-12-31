@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passive Income.md",
+                "file": "Project Ideas/Project - Cooking & Recipe App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94f337460ea2f3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Meat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passive Income.md",
+                "file": "Fake Meat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passive Income.md"
+                "file": "Fake Meat.md"
               }
             }
           }
@@ -164,8 +176,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "11b9613b536fe2c8",
+  "active": "94f337460ea2f3c9",
   "lastOpenFiles": [
+    "Project Ideas/Project - Cooking & Recipe App.md",
+    "Passive Income.md",
     "Electrical Engineering.md",
     "Movies.md",
     "Interviewing/Notes - Interviewing.md",
@@ -173,8 +187,6 @@
     "Tech Notes/Designing Data Applications.md",
     "Skiing - Dryland Training.md",
     "Tech Notes/Text Recognition.md",
-    "Pet Info.md",
-    "Other - Care Package.md",
-    "Task Managment Apps.md"
+    "Pet Info.md"
   ]
 }
