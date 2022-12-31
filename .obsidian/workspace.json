@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3db36a371ea0a179",
+        "id": "45cbb24cb7a3dba0",
         "type": "tabs",
         "children": [
           {
-            "id": "265d74b9cb7a9e77",
+            "id": "917b57b50c5b9297",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pet Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef095c7478e1095a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transcription.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -91,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transcription.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Transcription.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -129,8 +108,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ef095c7478e1095a",
+  "active": "917b57b50c5b9297",
   "lastOpenFiles": [
+    "Tech Notes/Text Recognition.md",
     "Pet Info.md",
     "Other - Care Package.md",
     "Task Managment Apps.md",
@@ -139,7 +119,6 @@
     "Tech Notes/Notes - Product Managment.md",
     "Tech Notes/Notes - Programming Concepts.md",
     "Interviewing/Notes - Interviewing.md",
-    "Tech Notes/Designing Data Applications.md",
-    "Wedding/Wedding Cards.md"
+    "Tech Notes/Designing Data Applications.md"
   ]
 }
