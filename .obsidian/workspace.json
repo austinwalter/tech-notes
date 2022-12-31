@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computational Bio & Bioinformatics.md",
+                "file": "Biotech.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computational Bio & Bioinformatics.md",
+                "file": "Biotech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computational Bio & Bioinformatics.md"
+                "file": "Biotech.md"
               }
             }
           }
@@ -143,7 +144,7 @@
   "active": "25fc93c55534ff70",
   "lastOpenFiles": [
     "Tech Notes/Designing Data Applications.md",
-    "Computational Bio & Bioinformatics.md",
+    "Biotech.md",
     "Skiing - Dryland Training.md",
     "Tech Notes/Text Recognition.md",
     "Pet Info.md",
