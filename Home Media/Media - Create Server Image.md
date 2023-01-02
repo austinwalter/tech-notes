@@ -2,7 +2,11 @@ Media Server Image
 
 Ubuntu
 Next Cloud
-Plex/Jellyfin/Emby
+Jellyfin
+Cryptomator
+Syncthing
+
+
 MakeMKV
 Handbrake
 video_transcoding ruby gem
