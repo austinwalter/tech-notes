@@ -37,4 +37,4 @@ https://www.reddit.com/r/PleX/comments/9a8y8s/batch_extract_subtitles_from_mkv_f
 
 #### Related
 
-[[Media - Create Server Image]]
+[[Create Server Image]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Media/Media - Create Server Image.md",
+                "file": "Home Media/Create Server Image.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home Media/Media - Create Server Image.md",
+                "file": "Home Media/Create Server Image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Media/Media - Create Server Image.md"
+                "file": "Home Media/Create Server Image.md"
               }
             }
           }
@@ -118,7 +118,7 @@
   "active": "f529abbe38a1bc64",
   "lastOpenFiles": [
     "Home Media/Media - Jellyfin.md",
-    "Home Media/Media - Create Server Image.md",
+    "Home Media/Create Server Image.md",
     "Home Media/Setup Ubuntu Server.md",
     "Tech Notes/Designing Data Applications.md",
     "Movies.md",
