@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Designing Data Applications.md",
+                "file": "Setup Ubuntu Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup Ubuntu Server.md",
+                "file": "Home Media/Media - Jellyfin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,17 +127,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0856930aafd6ed65",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
     "Tech Notes/Designing Data Applications.md",
+    "Home Media/Media - Jellyfin.md",
+    "Home Media/Media - Create Server Image.md",
+    "Setup Ubuntu Server.md",
     "Movies.md",
     "Electrical Engineering.md",
     "Project Ideas/Project - Cooking & Recipe App.md",
     "Fake Meat.md",
     "Passive Income.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Biotech.md",
-    "Skiing - Dryland Training.md",
-    "Tech Notes/Text Recognition.md"
+    "Interviewing/Notes - Interviewing.md"
   ]
 }
