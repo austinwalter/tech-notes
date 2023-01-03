@@ -30,4 +30,7 @@ variant of an n-ary tree
 
 # Graphs
 Adjacency List
+Adjacency Matrices
+
+## Graph Search
 
