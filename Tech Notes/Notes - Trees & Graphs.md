@@ -1,4 +1,5 @@
 
+# Trees
 ## Types of Trees
 
 Trees vs binary trees
@@ -26,3 +27,7 @@ max-heaps
 
 ## Tries (Prefix Trees)
 variant of an n-ary tree
+
+# Graphs
+Adjacency List
+
