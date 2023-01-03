@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Resume.md",
+                "file": "Tech Notes/Notes - Trees & Graphs.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Resume.md",
+                "file": "Tech Notes/Notes - Trees & Graphs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Resume.md"
+                "file": "Tech Notes/Notes - Trees & Graphs.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "ece6ef9601b5b125",
   "lastOpenFiles": [
+    "Tech Notes/Notes - Programming Concepts.md",
+    "Tech Notes/Notes - Trees & Graphs.md",
+    "Interviewing/Resume.md",
     "Pet Info.md",
     "Other - Care Package.md",
     "Other - Andrew & Paula.md",
     "Amazon Replacements.md",
     "Project Ideas/Fake Meat.md",
     "Tech Notes/Biotech.md",
-    "Home Media/Create Server Image.md",
-    "Home Media/Media - Jellyfin.md",
-    "Home Media/Setup Ubuntu Server.md",
-    "Tech Notes/Designing Data Applications.md"
+    "Home Media/Create Server Image.md"
   ]
 }
