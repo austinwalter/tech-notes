@@ -25,3 +25,4 @@ min-heaps
 max-heaps
 
 ## Tries (Prefix Trees)
+variant of an n-ary tree
