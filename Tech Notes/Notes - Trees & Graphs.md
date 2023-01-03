@@ -33,4 +33,5 @@ Adjacency List
 Adjacency Matrices
 
 ## Graph Search
-
+* Breadth-First Search (BFS)
+* Depth-First Search (DFS)
