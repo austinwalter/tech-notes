@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7b6e4176d43410e0",
+        "id": "ef3a52e474d7e3c1",
         "type": "tabs",
         "children": [
           {
-            "id": "ece6ef9601b5b125",
+            "id": "2a6fe39115f979e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interviewing/Notes - Interviewing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,17 +108,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ece6ef9601b5b125",
+  "active": "2a6fe39115f979e7",
   "lastOpenFiles": [
+    "Tech Notes/Notes - Programming Concepts.md",
+    "_media/big-o-cheat-sheet.png",
+    "Interviewing/Notes - Interviewing.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "Tech Notes/Text Recognition.md",
-    "Tech Notes/Notes - Programming Concepts.md",
     "Tech Notes/Notes - Product Managment.md",
     "Interviewing/Resume.md",
     "Pet Info.md",
     "Other - Care Package.md",
-    "Other - Andrew & Paula.md",
-    "Amazon Replacements.md",
-    "Project Ideas/Fake Meat.md"
+    "Other - Andrew & Paula.md"
   ]
 }
