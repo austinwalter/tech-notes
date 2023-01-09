@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "650d3ff93d34e4b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2a6fe39115f979e7",
+  "active": "650d3ff93d34e4b3",
   "lastOpenFiles": [
     "Tech Notes/Notes - Programming Concepts.md",
     "_media/big-o-cheat-sheet.png",
