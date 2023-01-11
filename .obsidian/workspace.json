@@ -19,9 +19,11 @@
             "id": "650d3ff93d34e4b3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "Interviewing/Notes - Interviewing.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interviewing/Notes - Interviewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interviewing/Notes - Interviewing.md"
+              }
             }
           }
         ]
