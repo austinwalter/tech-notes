@@ -6,10 +6,10 @@ Array
 Linked List
 Queue
 Stack
-Map
+Map | O(1)
 
 
-Hash Map
+Hash Map | O(1)
 
 
 ### Data Structures
