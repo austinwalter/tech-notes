@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef3a52e474d7e3c1",
+        "id": "4da63e1fc090c1ab",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6fe39115f979e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "650d3ff93d34e4b3",
+            "id": "363dd01861090152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Notes - Programming Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b3df230f4701c84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C3 AI.md",
+                "file": "Tech Notes/Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C3 AI.md",
+                "file": "Tech Notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C3 AI.md"
+                "file": "Tech Notes/Notes.md"
               }
             }
           }
@@ -136,17 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3b3df230f4701c84",
+  "active": "363dd01861090152",
   "lastOpenFiles": [
-    "Interviewing/Notes - Interviewing.md",
     "C3 AI.md",
+    "Tech Notes/Notes.md",
     "Tech Notes/Notes - Programming Concepts.md",
+    "Interviewing/Notes - Interviewing.md",
     "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "_media/big-o-cheat-sheet.png",
     "Tech Notes/Text Recognition.md",
     "Tech Notes/Notes - Product Managment.md",
-    "Interviewing/Resume.md",
-    "Pet Info.md"
+    "Interviewing/Resume.md"
   ]
 }
