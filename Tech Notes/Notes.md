@@ -6,7 +6,7 @@ Array
 Linked List
 Queue
 Stack
-Hash Map
+Map
 
 ### Data Structures
 xxx | xxx

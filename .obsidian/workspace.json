@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Notes.md",
+                "file": "C3 AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Notes.md",
+                "file": "C3 AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Notes.md"
+                "file": "C3 AI.md"
               }
             }
           }
@@ -117,8 +117,8 @@
   },
   "active": "363dd01861090152",
   "lastOpenFiles": [
-    "C3 AI.md",
     "Tech Notes/Notes.md",
+    "C3 AI.md",
     "Tech Notes/Notes - Programming Concepts.md",
     "Interviewing/Notes - Interviewing.md",
     "Tech Notes/Notes - Statistics Research.md",
