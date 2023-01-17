@@ -7,9 +7,11 @@ Array
 xxx | xxx
 --- | ---
 Monotonic Stack | O(n)
-Priority Queue (Heap) | 
+
 Hash Table
 Ordered Hash Map O(log n)
+
+Priority Queue (Heap) | O(log n)
 
 ### Algorithms
 Binary Search
