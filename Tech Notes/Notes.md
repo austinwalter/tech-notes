@@ -8,6 +8,10 @@ Queue
 Stack
 Map
 
+
+Hash Map
+
+
 ### Data Structures
 xxx | xxx
 --- | ---
