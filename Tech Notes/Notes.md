@@ -3,6 +3,10 @@ Queue
 Hash Map
 Array
 
+Linked List
+Queue
+Stack
+
 ### Data Structures
 xxx | xxx
 --- | ---
@@ -12,6 +16,9 @@ Hash Table
 Ordered Hash Map O(log n)
 
 Priority Queue (Heap) | O(log n)
+
+Tree
+Graph
 
 ### Algorithms
 Binary Search
