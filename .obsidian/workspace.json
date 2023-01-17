@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
+                "file": "Tech Notes/Notes - Programming Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b3df230f4701c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -124,17 +136,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "650d3ff93d34e4b3",
+  "active": "3b3df230f4701c84",
   "lastOpenFiles": [
     "Tech Notes/Notes - Programming Concepts.md",
-    "_media/big-o-cheat-sheet.png",
-    "Interviewing/Notes - Interviewing.md",
+    "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Notes - Trees & Graphs.md",
+    "Interviewing/Notes - Interviewing.md",
+    "_media/big-o-cheat-sheet.png",
     "Tech Notes/Text Recognition.md",
     "Tech Notes/Notes - Product Managment.md",
     "Interviewing/Resume.md",
     "Pet Info.md",
-    "Other - Care Package.md",
-    "Other - Andrew & Paula.md"
+    "Other - Care Package.md"
   ]
 }
