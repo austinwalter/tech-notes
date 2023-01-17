@@ -6,8 +6,8 @@ Array
 ### Data Structures
 xxx | xxx
 --- | ---
-Monotonic Stack | 
-Priority Queue (Heap)
+Monotonic Stack | O(n)
+Priority Queue (Heap) | 
 Hash Table
 Ordered Hash Map O(log n)
 
