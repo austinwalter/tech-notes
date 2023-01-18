@@ -1,9 +1,9 @@
 ### Basic Structures
 
 Array
-xxx | xxx
---- | ---
-Dynamic Array | O(n)
+xxx | Read | Mutate
+--- | --- | ---
+Dynamic Array | O(1) | O(n)
 Linked List | O(n)
 Map | O(1)
 Queue
