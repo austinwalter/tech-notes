@@ -14,9 +14,9 @@ Big O notation is used to compare the efficiency of different algorithms, which 
 The most common types for output given an input `n` are:
 
 - $O(1)$ - constant (same amount of time/space regardless of `n` size)
-- $O(log{n})$ - linear (time/space grows proportional to `n` size)
+- $O(\log n)$ - linear (time/space grows proportional to `n` size)
 - $O(n)$ - linear (time/space grows proportional to `n` size)
-- $O(n)$ - linear (time/space grows proportional to `n` size)
+- $O(n \log n)$ - linear (time/space grows proportional to `n` size)
 - $O(n^2)$ - linear (time/space grows proportional to `n` size)
 
 ![[big-o-chart.png]]
