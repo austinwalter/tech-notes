@@ -61,7 +61,8 @@ Map         | O(1)     | O(1)   | O(1)   | O(n)
 Hash Map    | O(1)     | O(1)   | O(1)   | O(n)
 Heap        | O(log n) | --     | O(n)   | O(n)
 Binary Search Tree | O(log n) | O(log n) | O(log n) | O(n)
-Red-Black Tree | O(1) | | O(log n) | O(n)
+Red-Black Tree | O(log n) | O(log n) | O(log n) | O(n)
+
 
 Priority Queue
 Monotonic Stack
