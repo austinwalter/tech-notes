@@ -1,13 +1,13 @@
 # Data Structures
 
-## Lists
+## Lists & Maps
 Array Lists
 Linked Lists
 Stacks
 Queues
+Maps
 
-
-## Trees
+## Trees & Graphs
 - N-ary Tree
 - Binary Tree
 	- Heap
@@ -18,8 +18,10 @@ Queues
 			- B-Tree
 			- 2-3 Tree
 			- B-Tree
-   
-#### Less Common Data Structures
+
+## Abstract Data Structures
+
+## Less Common Data Structures
 - Priority Queue
 - Monotonic Stack
 - Ordered Hash Map
