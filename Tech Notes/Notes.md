@@ -4,7 +4,7 @@ Array
 xxx | Read | Mutate
 --- | --- | ---
 Dynamic Array | O(1) | O(n)
-Linked List | O(n)
+Linked List | O(n) | O(n)
 Map | O(1)
 Queue
 Hash Map
