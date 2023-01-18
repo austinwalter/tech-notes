@@ -73,10 +73,10 @@ https://www.bigocheatsheet.com/
 ### Common Data Structure Operations
 Data Structure	Time Complexity	Space Complexity
 Average	Worst	Worst
-Structure | Access | Search | Insertion | Deletion
+Data Structure | Access | Search | Insertion | Deletion
 ---       | ---    | ---    | ---       | ---
-Array     | Θ(1)   | Θ(n)   | Θ(n)      | Θ(n)
-Stack     | Θ(n)   | Θ(n)   | Θ(1)      | Θ(1)
+Array | Θ(1) | Θ(n)   | Θ(n)      | Θ(n)
+Stack | Θ(n) | Θ(n)   | Θ(1)      | Θ(1)
 Queue | Θ(n) | Θ(n) | Θ(1) | Θ(1)
 Singly-Linked List | Θ(n) | Θ(n) | Θ(1) | Θ(1)
 Doubly-Linked List | Θ(n) | Θ(n) | Θ(1) | Θ(1)
@@ -87,8 +87,8 @@ Cartesian Tree | N/A | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
 B-Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
 Red-Black Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
 Splay Tree | N/A | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
-AVL Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
-KD Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
+AVL Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
+KD Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
 
 
 Data Structure	Time Complexity	Space Complexity
