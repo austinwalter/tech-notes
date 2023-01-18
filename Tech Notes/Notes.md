@@ -48,3 +48,15 @@ Divide and Conquer
 Sliding Window
 Two Pointers
 Three Pointers
+
+
+Structure | Mutate | Read | Search | Space usage
+---       | ---    | ---  | ---    | ---
+Unsorted array	O(1)
+(see note)	O(1)
+(see note)	N/A	O(1)	O(n)	O(n)	O(n)	O(n)
+Sorted array	O(n)	O(n)	N/A	O(1)	O(log n)	O(1)	O(1)	O(n)
+Stack	O(1)	O(1)			O(n)			O(n)
+Queue	O(1)	O(1)			O(n)			O(n)
+Unsorted linked list	O(1)	O(1)[1]	N/A	O(n)	O(n)	O(n)	O(n)	O(n)
+Sorted linked list	O(n)	O(1)[1]	N/A	O(n)	O(n)	O(1)	O(1)	O(n)
