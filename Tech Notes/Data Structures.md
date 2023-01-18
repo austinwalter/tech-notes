@@ -6,19 +6,17 @@ Linked Lists
 Stacks
 Queues
 
-#### Trees
-- Binary Tree
-	- Binary Search Tree
-		 - Self-Balancing Binary Search Tree
-- Heap
+## Trees
 - N-ary Tree
-
-#### Self-Balancing Binary Search Trees
-- Red-Black Tree
-- AVL Tree
-- B-Tree
-- 2-3 Tree
-- B-Tree
+- Binary Tree
+	- Heap
+	- Binary Search Tree
+		 - Self-Balancing Binary Search Trees
+			- Red-Black Tree
+			- AVL Tree
+			- B-Tree
+			- 2-3 Tree
+			- B-Tree
    
 Suffix Tree (Using Ukkonens Algorithm)
 Alpha-Beta Tree

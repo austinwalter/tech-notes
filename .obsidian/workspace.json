@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Data Structures.md",
+                "file": "Tech Notes/Big O Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Data Structures.md",
+                "file": "Tech Notes/Big O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Data Structures.md"
+                "file": "Tech Notes/Big O Notation.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "0030901a80323f94",
   "lastOpenFiles": [
-    "Tech Notes/Algorithms.md",
     "Tech Notes/Data Structures.md",
+    "Tech Notes/Algorithms.md",
     "Tech Notes/Big O Notation.md",
     "Tech Notes/Notes - Programming Concepts.md",
     "Tech Notes/Notes - Trees & Graphs.md",
