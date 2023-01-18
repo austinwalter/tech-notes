@@ -7,9 +7,9 @@ Big O notation is used to compare the efficiency of different algorithms, which 
 - Space Complexity
 
 **The three versions of these measurements:**
-- Best Case
-- Average Case
-- Worst Case
+- Best Case (**Ω**)
+- Average Case (**Θ**)
+- Worst Case (**O**)
 
 **Some common types for output given an input `n` are:**
 - $O(1)$ - constant (same amount of time/space regardless of `n` size)
@@ -26,8 +26,11 @@ Big O notation is used to compare the efficiency of different algorithms, which 
 
 # Common Data Structure Operations
 
+## Average
 
 ![[big-o-data-average.png]]
+
+## Worst
 
 ![[big-o-data-worst.png]]
 
