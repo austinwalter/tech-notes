@@ -61,3 +61,7 @@ Map         | O(1)     | O(1) | O(1)   | O(n)
 Hash Map    | O(1)     | O(1) | O(1)   | O(n)
 Heap        | O(log n) | --   | O(n)   | O(n)
 
+
+Priority Queue
+Monotonic Stack
+Ordered Hash Map
