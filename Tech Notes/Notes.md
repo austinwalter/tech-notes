@@ -1,8 +1,9 @@
 ### Basic Structures
 
 Array
-
-Dynamic Array
+xxx | xxx
+--- | ---
+Dynamic Array | O(n)
 Queue
 Hash Map
 
