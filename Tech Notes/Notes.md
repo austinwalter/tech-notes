@@ -1,6 +1,7 @@
 ### Basic Structures
 
 Array
+
 xxx | Read | Mutate | Search
 --- | --- | --- | ---
 Dynamic Array (Array List)| O(1) | O(n) | O(n)
