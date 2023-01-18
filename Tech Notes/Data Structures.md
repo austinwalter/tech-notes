@@ -1,16 +1,24 @@
 # Data Structures
 
-### Lists
+**Linear**
 Array List
 Linked List
+Stack
+Queue
 
 ### Maps
 Associative Array (Map)
 Hash Map
 
-### Trees
+**Non-Linear**
 Binary Tree
 Heap
+Graph
+
+**Less Common**
+- Priority Queue
+- Monotonic Stack
+- Ordered Hash Map
 
 # Common Data Structure Operations
 
