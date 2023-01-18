@@ -11,7 +11,7 @@ Associative Array (Map)
 Hash Map
 
 **Non-Linear**
-Binary Tree
+Tree
 Heap
 Graph
 
