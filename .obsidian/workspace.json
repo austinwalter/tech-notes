@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -118,13 +117,13 @@
   },
   "active": "0030901a80323f94",
   "lastOpenFiles": [
-    "Tech Notes/Notes - Programming Concepts.md",
+    "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Big O Notation.md",
+    "Tech Notes/Notes - Programming Concepts.md",
     "_media/big-o-cheat-sheet.png",
     "_media/big-o.jpeg",
     "Interviewing/Notes - Interviewing.md",
     "C3 AI.md",
-    "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "Tech Notes/Text Recognition.md",
     "Tech Notes/Notes - Product Managment.md"
