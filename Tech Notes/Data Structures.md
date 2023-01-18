@@ -25,3 +25,53 @@ Maps
 - Priority Queue
 - Monotonic Stack
 - Ordered Hash Map
+
+
+
+
+
+
+
+other
+Data Structures:
+
+-   [Trie data structure](http://en.wikipedia.org/wiki/Trie)
+    
+-   Linked Lists
+    
+-   Skip Lists
+    
+-   Stack
+    
+-   Queue
+    
+-   Adjacent matrices for dense graphs
+    
+-   Adjacent lists for sparse graphs
+    
+-   Hash Tables
+    
+
+Trees:
+
+-   Binary Search Tree
+    
+-   Red Black Tree or AVL Tree
+    
+-   Suffix Tree (Using Ukkonens Algorithm)
+    
+-   Alpha-Beta Tree
+    
+-   Syntax Tree
+    
+-   Fenwick Tree
+    
+-   Heap
+    
+-   tree with arbitrary number of branches
+    
+-   B-Tree
+    
+-   van Emde Boa trees
+    
+-   Fibonacci Heap

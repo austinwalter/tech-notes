@@ -42,8 +42,6 @@
 
 ![[big-o-cheat-sheet.png]]
 
-![[big-o-chart.png]]
-
 ## Power of 2 Table
 
 Power of 2 | Full | Exact Value (X)   | Aprx Value    | X Bytes into MB, GB, etc

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "c3c66914e1f337a3",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Data Structures.md",
+                "file": "Tech Notes/Notes - Programming Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Data Structures.md"
+                "file": "Tech Notes/Notes - Programming Concepts.md"
               }
             }
           }
@@ -145,12 +146,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7af3ad1308b965f8",
+  "active": "fea73889b63df1ea",
   "lastOpenFiles": [
-    "Tech Notes/Big O Notation.md",
-    "Tech Notes/Notes - Programming Concepts.md",
-    "Tech Notes/Data Structures.md",
     "Tech Notes/Algorithms.md",
+    "Tech Notes/Data Structures.md",
+    "Tech Notes/Notes - Programming Concepts.md",
+    "Tech Notes/Big O Notation.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Notes - Product Managment.md",
