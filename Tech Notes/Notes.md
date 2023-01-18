@@ -4,9 +4,10 @@ Array
 xxx | Read | Mutate
 --- | --- | ---
 Dynamic Array (Array List)| O(1) | O(n)
-Linked List | O(n) | O(n)
 Associative array (Map) | O(1) | O(1)
-Queue
+Linked List | O(n) | O(n)
+
+Queue | 
 Hash Map
 
 Linked List
