@@ -2,8 +2,13 @@
 
 #### Basics
 Arrays
+Lists
+Trees
+Graphs
+
+Arrays
 Linked Lists
-Stacks
+	Stacks
 Queues
 
 ## Trees
