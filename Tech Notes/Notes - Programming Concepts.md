@@ -72,3 +72,5 @@ x ^ x  = 0    x & x  = 1    x | x  = x
 y = ~x + 1
 ```
 
+
+https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f
