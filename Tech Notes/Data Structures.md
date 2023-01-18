@@ -6,6 +6,7 @@ Linked Lists
 Stacks
 Queues
 
+
 ## Trees
 - N-ary Tree
 - Binary Tree
@@ -18,15 +19,6 @@ Queues
 			- 2-3 Tree
 			- B-Tree
    
-Suffix Tree (Using Ukkonens Algorithm)
-Alpha-Beta Tree
-Syntax Tree
-Fenwick Tree
-
-van Emde Boa trees
-
-Fibonacci Heap
-
 #### Less Common Data Structures
 - Priority Queue
 - Monotonic Stack
