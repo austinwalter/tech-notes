@@ -42,7 +42,7 @@
 
 ![[big-o-cheat-sheet.png]]
 
-![[big-o.jpeg]]
+![[big-o-chart.png]]
 
 ## Power of 2 Table
 
