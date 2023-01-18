@@ -1,10 +1,10 @@
 ### Basic Structures
 
 Array
-xxx | Read | Mutate
---- | --- | ---
-Dynamic Array (Array List)| O(1) | O(n)
-Associative array (Map) | O(1) | O(1)
+xxx | Read | Mutate | Search
+--- | --- | --- | ---
+Dynamic Array (Array List)| O(1) | O(n) | O(n)
+Associative array (Map) | O(1) | O(1) | O(1)
 Linked List | O(n) | O(n)
 
 Queue | 
