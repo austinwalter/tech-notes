@@ -5,6 +5,7 @@ xxx | xxx
 --- | ---
 Dynamic Array | O(n)
 Linked List | O(n)
+Map | O(1)
 Queue
 Hash Map
 
