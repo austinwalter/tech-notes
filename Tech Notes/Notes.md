@@ -50,13 +50,13 @@ Two Pointers
 Three Pointers
 
 
-Structure | Mutate | Read | Search | Space usage
----       | ---    | ---  | ---    | ---
-Unsorted array	O(1)
-(see note)	O(1)
-(see note)	N/A	O(1)	O(n)	O(n)	O(n)	O(n)
-Sorted array	O(n)	O(n)	N/A	O(1)	O(log n)	O(1)	O(1)	O(n)
-Stack	O(1)	O(1)			O(n)			O(n)
-Queue	O(1)	O(1)			O(n)			O(n)
-Unsorted linked list	O(1)	O(1)[1]	N/A	O(n)	O(n)	O(n)	O(n)	O(n)
-Sorted linked list	O(n)	O(1)[1]	N/A	O(n)	O(n)	O(1)	O(1)	O(n)
+Structure   | Mutate   | Read | Search | Space usage
+---         | ---      | ---  | ---    | ---
+Array       | O(n)     | O(1) | O(n)   | O(n)
+Stack	    | O(1)     | --   | O(n)   | O(n)
+Queue       | O(1)     | --   | O(n)   | O(n)
+Linked List | O(1)     | O(n) | O(n)   | O(n)
+Map         | O(1)     | O(1) | O(1)   | O(n)
+Hash Map    | O(1)     | O(1) | O(1)   | O(n)
+Heap        | O(log n) | --   | O(n)   | O(n)
+
