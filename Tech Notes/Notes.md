@@ -2,6 +2,7 @@
 
 Array
 
+Dynamic Array
 Queue
 Hash Map
 
