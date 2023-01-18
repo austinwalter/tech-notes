@@ -83,12 +83,12 @@ Doubly-Linked List | Θ(n) | Θ(n) | Θ(1) | Θ(1)
 Skip List | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
 Hash Table | N/A | Θ(1) | Θ(1) | Θ(1)
 Binary Search Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
-Cartesian Tree	N/A	Θ(log(n))	Θ(log(n))	Θ(log(n))
-B-Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
-Red-Black Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
-Splay Tree	N/A	Θ(log(n))	Θ(log(n))	Θ(log(n))	N/A	O(log(n))	O(log(n))	O(log(n))	O(n)
-AVL Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))	O(log(n))	O(log(n))	O(log(n))	O(log(n))	O(n)
-KD Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))	O(n)	O(n)	O(n)	O(n)	O(n)
+Cartesian Tree | N/A | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
+B-Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
+Red-Black Tree | Θ(log(n)) | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
+Splay Tree | N/A | Θ(log(n)) | Θ(log(n)) | Θ(log(n))
+AVL Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
+KD Tree	Θ(log(n))	Θ(log(n))	Θ(log(n))	Θ(log(n))
 
 
 Data Structure	Time Complexity	Space Complexity
