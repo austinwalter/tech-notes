@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Data Structures.md",
+                "file": "Tech Notes/Big O Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Data Structures.md",
+                "file": "Tech Notes/Big O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Data Structures.md"
+                "file": "Tech Notes/Big O Notation.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7af3ad1308b965f8",
+  "active": "f36dce2d172cf588",
   "lastOpenFiles": [
+    "Tech Notes/Data Structures.md",
     "Tech Notes/Big O Notation.md",
     "Tech Notes/Notes - Programming Concepts.md",
     "Tech Notes/Notes - Trees & Graphs.md",
@@ -156,7 +157,6 @@
     "Tech Notes/Notes - Machine Learning.md",
     "Tech Notes/Electronics.md",
     "Tech Notes/Designing Data Applications.md",
-    "Tech Notes/Biotech.md",
-    "C3 AI.md"
+    "Tech Notes/Biotech.md"
   ]
 }
