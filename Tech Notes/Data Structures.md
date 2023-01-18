@@ -9,14 +9,13 @@ Queues
 #### Trees
 - Binary Tree
 - Heap
-- Binary Search Tree
-	- Red-Black Tree
 - N-ary Tree
-- B-Tree
 
 #### Self-Balancing Binary Search Tree
 - Red-Black Tree
 - AVL Tree
+- B-Tree
+- 2-3 Tree
 - B-Tree
 
 Suffix Tree (Using Ukkonens Algorithm)
