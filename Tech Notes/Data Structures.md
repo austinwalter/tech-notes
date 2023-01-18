@@ -1,28 +1,27 @@
 # Data Structures
 
-Basics
+#### Basics
+Arrays
+Linked Lists
 Stacks
 Queues
-Sets
-Trees
-Graphs
-
-**Linear**
-Array List
-Linked List
-Stack
-Queue
-
-### Maps
-Associative Array (Map)
-Hash Map
-
-**Non-Linear**
-Tree
-Heap
-Graph
 
 #### Trees
+- Binary Tree
+- Binary Search Tree
+- Red Black Tree
+- Heap
+- N-ary Tree
+- B-Tree
+
+Suffix Tree (Using Ukkonens Algorithm)
+Alpha-Beta Tree
+Syntax Tree
+Fenwick Tree
+
+van Emde Boa trees
+
+Fibonacci Heap
 
 #### Less Common Data Structures
 - Priority Queue
