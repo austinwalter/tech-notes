@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Big O Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f36dce2d172cf588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Big O Notation.md",
+                "file": "Tech Notes/Data Structures.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c3c66914e1f337a3",
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Big O Notation.md",
+                "file": "Tech Notes/Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Big O Notation.md"
+                "file": "Tech Notes/Data Structures.md"
               }
             }
           }
@@ -146,10 +133,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f36dce2d172cf588",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
-    "Tech Notes/Data Structures.md",
     "Tech Notes/Big O Notation.md",
+    "Tech Notes/Data Structures.md",
     "Tech Notes/Notes - Programming Concepts.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "Tech Notes/Notes - Statistics Research.md",

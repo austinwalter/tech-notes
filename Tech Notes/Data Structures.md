@@ -1,14 +1,18 @@
 # Data Structures
 
-Big O notation is used to compare the efficiency of different algorithms, which is done by calculating how much memory is needed, and how much time it takes to complete.
-
-# Common Data Structure Operations
-
+### Lists
 Array List
 Linked List
+
+### Maps
+Associative Array (Map)
 Hash Map
+
+### Trees
 Binary Tree
 Heap
+
+# Common Data Structure Operations
 
 ![[big-o-data-average.png]]
 
