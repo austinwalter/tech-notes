@@ -1,5 +1,18 @@
 # Big O Notation
 
+Big O notation is used to compare the efficiency of different algorithms, which is done by calculating how much memory is needed, and how much time it takes to complete.
+
+**The two main measurements are:**
+- Time Complexity
+- Space Complexity
+
+**The three versions of these measurements:**
+- Best Case
+- Average Case
+- Worst Case
+
+The most common 
+
 ![[big-o-chart.png]]
 
 # Common Data Structure Operations
