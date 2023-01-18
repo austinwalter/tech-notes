@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
+                "file": "Tech Notes/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
+                "file": "Tech Notes/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Notes - Interviewing.md"
+                "file": "Tech Notes/Notes.md"
               }
             }
           }
@@ -117,10 +117,10 @@
   },
   "active": "363dd01861090152",
   "lastOpenFiles": [
+    "Interviewing/Notes - Interviewing.md",
     "C3 AI.md",
     "Tech Notes/Notes.md",
     "Tech Notes/Notes - Programming Concepts.md",
-    "Interviewing/Notes - Interviewing.md",
     "Tech Notes/Notes - Statistics Research.md",
     "Tech Notes/Notes - Trees & Graphs.md",
     "_media/big-o-cheat-sheet.png",

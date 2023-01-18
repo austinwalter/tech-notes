@@ -1,7 +1,9 @@
 ### Basic Structures
+
+Array
+
 Queue
 Hash Map
-Array
 
 Linked List
 Queue
