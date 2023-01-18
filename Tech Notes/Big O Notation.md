@@ -14,11 +14,12 @@ Big O notation is used to compare the efficiency of different algorithms, which 
 The most common types for output given an input `n` are:
 
 - $O(1)$ - constant (same amount of time/space regardless of `n` size)
-- $O(\log n)$ - linear (time/space grows proportional to `n` size)
+- $O(\log n)$ - logarithmic (time/space grows at slower diminishing rate)
 - $O(n)$ - linear (time/space grows proportional to `n` size)
-- $O(n \log n)$ - linear (time/space grows proportional to `n` size)
-- $O(n^2)$ - linear (time/space grows proportional to `n` size)
-
+- $O(n \log n)$ - quasi-linear (becomes more linear over time) equal to $O(\log n!)$
+- $O(n^2)$ - exponential
+- $O(2^n)$ - linear (time/space grows proportional to `n` size)
+- $O(n!)$ - factorial (time/space grows crazy big to `n` size)
 ![[big-o-chart.png]]
 
 # Common Data Structure Operations
