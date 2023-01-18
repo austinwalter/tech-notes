@@ -4,6 +4,7 @@ Array
 xxx | xxx
 --- | ---
 Dynamic Array | O(n)
+Linked List | O(n)
 Queue
 Hash Map
 
