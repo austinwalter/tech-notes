@@ -43,6 +43,7 @@ Sieve of Eratosthenes
 Newton's method
 Hoare's selection algorithm (quickselect)
 Divide and Conquer
+Dijkstra's algorithm
 
 ### Techniques
 Sliding Window
