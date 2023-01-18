@@ -1,14 +1,9 @@
 # Data Structures
 
-#### Basics
-Arrays
-Lists
-Trees
-Graphs
-
-Arrays
+## Lists
+Array Lists
 Linked Lists
-	Stacks
+Stacks
 Queues
 
 ## Trees
