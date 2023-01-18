@@ -54,8 +54,8 @@ Three Pointers
 Structure   | Insert/Delete | Access Index | Search | Space Usage
 ---         | ---      | ---    | ---    | ---
 Array       | O(n)     | O(1)   | O(n)   | O(n)
-Stack	    | O(1)     | --     | O(n)   | O(n)
-Queue       | O(1)     | --     | O(n)   | O(n)
+Stack	    | O(1)     | O(n)   | O(n)   | O(n)
+Queue       | O(1)     | O(n)   | O(n)   | O(n)
 Linked List | O(1)     | O(n)   | O(n)   | O(n)
 Map         | O(1)     | O(1)   | O(1)   | O(n)
 Hash Map    | O(1)     | O(1)   | O(1)   | O(n)
