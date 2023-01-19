@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/System Design/Notes.md",
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md",
+                "file": "Tech Notes/System Design/Microservices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,17 +127,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9477cc6905239f52",
+  "active": "17acbfd2c8431ded",
   "lastOpenFiles": [
-    "Tech Notes/System Design/Microservices.md",
     "Tech Notes/System Design/Notes.md",
+    "Tech Notes/System Design/Microservices.md",
+    "Interviewing/Companies/Time by Ping.md",
     "Interviewing/LinkedIn.md",
     "Pet Info.md",
     "Passive Income.md",
     "Movies.md",
     "Books.md",
     "Task Managment Apps.md",
-    "Other - Care Package.md",
-    "Other - Andrew & Paula.md"
+    "Other - Care Package.md"
   ]
 }

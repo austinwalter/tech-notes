@@ -16,6 +16,7 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 - [Serverless](https://www.serverless.com/)
 - [Up](https://github.com/apex/up)
 - [Terraform](https://www.terraform.io/)
+- Docker Swarm
 
 ## References
 https://microservices.io/
