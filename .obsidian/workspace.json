@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "339e7034fdcc5cc9",
+        "id": "afbaec57c379a475",
         "type": "tabs",
         "children": [
           {
-            "id": "b221c3a7733e819c",
+            "id": "17acbfd2c8431ded",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/System Design/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9477cc6905239f52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/System Design/Microservices.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/System Design/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/System Design/Microservices.md"
+              }
             }
           }
         ]
@@ -108,17 +128,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b221c3a7733e819c",
+  "active": "9477cc6905239f52",
   "lastOpenFiles": [
-    "Computer Science/Notes - Big O Notation.md",
-    "Interviewing/Companies/Google.md",
-    "Interviewing/Companies/Time by Ping.md",
-    "Interviewing/Engineering Interviews.md",
-    "Computer Science/Notes - Math.md",
-    "Interviewing/Companies/Open AI.md",
-    "Interviewing/Companies/Airbnb.md",
-    "Interviewing/Companies/C3 AI.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Computer Science/Notes - Data Structures.md"
+    "Tech Notes/System Design/Notes.md",
+    "Interviewing/LinkedIn.md",
+    "Pet Info.md",
+    "Passive Income.md",
+    "Movies.md",
+    "Books.md",
+    "Task Managment Apps.md",
+    "Other - Care Package.md",
+    "Other - Andrew & Paula.md",
+    "Amazon Replacements.md"
   ]
 }
