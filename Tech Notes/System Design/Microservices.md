@@ -10,5 +10,8 @@ Microservices, also known as the microservice architecture, is an architectural 
 
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
+## Technologies
+Kubernetes, Istio and Serverless
+
 ## References
 https://microservices.io/
