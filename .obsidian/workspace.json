@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/System Design/Notes.md",
+                "file": "Interviewing/Engineering Interviews.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/System Design/Notes.md",
+                "file": "Interviewing/Engineering Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/System Design/Notes.md"
+                "file": "Interviewing/Engineering Interviews.md"
               }
             }
           }
@@ -129,15 +129,15 @@
   },
   "active": "17acbfd2c8431ded",
   "lastOpenFiles": [
-    "Interviewing/Companies/Time by Ping.md",
+    "Interviewing/Former Founder.md",
+    "Interviewing/Notes - Interviewing.md",
     "Tech Notes/System Design/Notes.md",
+    "Interviewing/Companies/Time by Ping.md",
     "Tech Notes/System Design/Microservices.md",
     "Interviewing/LinkedIn.md",
     "Pet Info.md",
     "Passive Income.md",
     "Movies.md",
-    "Books.md",
-    "Task Managment Apps.md",
-    "Other - Care Package.md"
+    "Books.md"
   ]
 }
