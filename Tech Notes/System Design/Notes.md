@@ -24,3 +24,8 @@ https://www.reddit.com/r/programming/comments/lhkhec/distributed_sorting_google_
 https://www.cs.rice.edu/~alc/comp520/schedule.html
 
 https://formation.dev/blog/how-to-prepare-for-a-system-design-interview-and-pass-it/
+
+https://github.com/checkcheckzz/system-design-interview
+
+https://github.com/donnemartin/system-design-primer
+
