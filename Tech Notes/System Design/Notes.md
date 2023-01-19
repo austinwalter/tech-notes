@@ -41,3 +41,11 @@ https://www.intercom.com/blog/six-principles-of-system-design/
 
 https://www.educative.io/blog/complete-guide-to-system-design
 
+https://jayendrapatil.com/tag/elastic-beanstalk-architecture/
+
+https://www.edureka.co/blog/aws-elastic-beanstalk/
+
+https://aws.amazon.com/builders-library/leader-election-in-distributed-systems/
+
+https://ajbrown.org/2017/02/10/leader-election-with-aws-auto-scaling-groups.html
+
