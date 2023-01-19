@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ddddc014d0d6aa",
+        "id": "339e7034fdcc5cc9",
         "type": "tabs",
         "children": [
           {
-            "id": "4d66c712973eb604",
+            "id": "b221c3a7733e819c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Companies/Google.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Companies/Google.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interviewing/Companies/Google.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,17 +108,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d66c712973eb604",
+  "active": "b221c3a7733e819c",
   "lastOpenFiles": [
+    "Computer Science/Notes - Big O Notation.md",
+    "Interviewing/Companies/Google.md",
     "Interviewing/Companies/Time by Ping.md",
     "Interviewing/Engineering Interviews.md",
     "Computer Science/Notes - Math.md",
     "Interviewing/Companies/Open AI.md",
-    "Interviewing/Companies/Google.md",
     "Interviewing/Companies/Airbnb.md",
     "Interviewing/Companies/C3 AI.md",
     "Interviewing/Notes - Interviewing.md",
-    "Computer Science/Notes - Data Structures.md",
-    "System Design/Notes.md"
+    "Computer Science/Notes - Data Structures.md"
   ]
 }
