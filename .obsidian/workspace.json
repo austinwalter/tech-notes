@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Engineering Interviews.md",
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Engineering Interviews.md",
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Engineering Interviews.md"
+                "file": "Interviewing/Companies/Time by Ping.md"
               }
             }
           }
@@ -117,6 +117,7 @@
   },
   "active": "4d66c712973eb604",
   "lastOpenFiles": [
+    "Interviewing/Engineering Interviews.md",
     "Computer Science/Notes - Math.md",
     "Interviewing/Companies/Open AI.md",
     "Interviewing/Companies/Time by Ping.md",
@@ -125,7 +126,6 @@
     "Interviewing/Companies/C3 AI.md",
     "Interviewing/Notes - Interviewing.md",
     "Computer Science/Notes - Data Structures.md",
-    "System Design/Notes.md",
-    "Computer Science/Notes - Algorithms.md"
+    "System Design/Notes.md"
   ]
 }
