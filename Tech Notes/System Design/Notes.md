@@ -16,3 +16,11 @@ https://sre.google/sre-book/introduction/
 
 https://w7cloud.com/distributed-systems-interview-questions/
 https://in.indeed.com/career-advice/interviewing/database-design-interview-questions
+
+https://www.reddit.com/r/cscareerquestions/comments/30y89g/how_do_you_answer_interview_questions_on_large/
+
+https://www.reddit.com/r/programming/comments/lhkhec/distributed_sorting_google_interview_question/
+
+https://www.cs.rice.edu/~alc/comp520/schedule.html
+
+https://formation.dev/blog/how-to-prepare-for-a-system-design-interview-and-pass-it/
