@@ -4,64 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5d78da7f5f01b86a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4365bc7b8c3aa16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Notes - Big O Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45e82ab7e98e445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Notes - Company Comparisons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "aa4d9c5b55f164f2",
         "type": "tabs",
         "children": [
-          {
-            "id": "32191e3386569836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Google.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22525c8475b79920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Airbnb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "b7baee567ecf9217",
             "type": "leaf",
@@ -86,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Notes - Company Comparisons.md",
+                "file": "Computer Science/Notes - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Notes - Company Comparisons.md"
+                "file": "Computer Science/Notes - Algorithms.md"
               }
             }
           }
@@ -183,17 +127,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f45e82ab7e98e445",
+  "active": "b7baee567ecf9217",
   "lastOpenFiles": [
-    "Interviewing/Airbnb.md",
-    "Interviewing/Notes - Company Comparisons.md",
-    "Interviewing/Google.md",
-    "Interviewing/Notes - Bryce.md",
-    "Interviewing/LinkedIn.md",
-    "Computer Science/Notes - Data Structures.md",
+    "Interviewing/Notes - Interviewing.md",
     "Computer Science/Notes - Algorithms.md",
+    "Interviewing/Time by Ping.md",
+    "Interviewing/Airbnb.md",
+    "Interviewing/Google.md",
+    "Interviewing/Notes - Company Comparisons.md",
     "Computer Science/Notes - Big O Notation.md",
-    "Computer Science/Notes - Math.md",
-    "Computer Science/Notes - Trees & Graphs.md"
+    "Interviewing/Former Founder.md",
+    "Interviewing/Notes - Bryce.md",
+    "Interviewing/LinkedIn.md"
   ]
 }
