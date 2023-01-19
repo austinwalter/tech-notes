@@ -29,3 +29,13 @@ https://github.com/checkcheckzz/system-design-interview
 
 https://github.com/donnemartin/system-design-primer
 
+https://www.reddit.com/r/ExperiencedDevs/comments/pm65o1/how_to_showcase_an_understanding_of_distributed/
+
+https://circleci.com/blog/distributed-systems/
+
+https://www.telos.com/blog/2015/08/24/best-practices-for-designing-distributed-systems-part-3/
+
+https://cloud.google.com/blog/topics/solutions-how-tos/optimize-your-system-design-using-architecture-framework-principles
+
+https://www.intercom.com/blog/six-principles-of-system-design/
+
