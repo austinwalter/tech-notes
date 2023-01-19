@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Notes - Data Structures.md",
+                "file": "Interviewing/Notes - Interviewing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34701deee768e9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Companies/Open AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Notes - Data Structures.md",
+                "file": "Interviewing/Companies/Open AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Notes - Data Structures.md"
+                "file": "Interviewing/Companies/Open AI.md"
               }
             }
           }
@@ -140,17 +152,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6a53ca62cd73790f",
+  "active": "34701deee768e9cf",
   "lastOpenFiles": [
+    "Interviewing/Companies/Time by Ping.md",
+    "Interviewing/Companies/Open AI.md",
+    "Interviewing/Companies/Google.md",
+    "Interviewing/Companies/Airbnb.md",
+    "Interviewing/Companies/C3 AI.md",
+    "Interviewing/Notes - Interviewing.md",
+    "Computer Science/Notes - Data Structures.md",
     "System Design/Notes.md",
     "Computer Science/Notes - Algorithms.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Interviewing/Time by Ping.md",
-    "Interviewing/Airbnb.md",
-    "Interviewing/Google.md",
-    "Interviewing/Notes - Company Comparisons.md",
-    "Computer Science/Notes - Big O Notation.md",
-    "Interviewing/Former Founder.md",
-    "Interviewing/Notes - Bryce.md"
+    "Interviewing/Notes - Company Comparisons.md"
   ]
 }
