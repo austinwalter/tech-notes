@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md",
+                "file": "Tech Notes/System Design/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md",
+                "file": "Tech Notes/System Design/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md"
+                "file": "Tech Notes/System Design/Notes.md"
               }
             }
           }
@@ -129,9 +129,9 @@
   },
   "active": "17acbfd2c8431ded",
   "lastOpenFiles": [
+    "Interviewing/Companies/Time by Ping.md",
     "Tech Notes/System Design/Notes.md",
     "Tech Notes/System Design/Microservices.md",
-    "Interviewing/Companies/Time by Ping.md",
     "Interviewing/LinkedIn.md",
     "Pet Info.md",
     "Passive Income.md",
