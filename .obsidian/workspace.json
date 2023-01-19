@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4d9c5b55f164f2",
+        "id": "d1ddddc014d0d6aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b7baee567ecf9217",
+            "id": "4d66c712973eb604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Notes - Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a53ca62cd73790f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34701deee768e9cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Companies/Open AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27f3b9ad1ad0e46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Notes - Math.md",
+                "file": "Interviewing/Engineering Interviews.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Companies/Open AI.md",
+                "file": "Interviewing/Engineering Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Companies/Open AI.md"
+                "file": "Interviewing/Engineering Interviews.md"
               }
             }
           }
@@ -152,17 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "34701deee768e9cf",
+  "active": "4d66c712973eb604",
   "lastOpenFiles": [
-    "Interviewing/Companies/Time by Ping.md",
+    "Computer Science/Notes - Math.md",
     "Interviewing/Companies/Open AI.md",
+    "Interviewing/Companies/Time by Ping.md",
     "Interviewing/Companies/Google.md",
     "Interviewing/Companies/Airbnb.md",
     "Interviewing/Companies/C3 AI.md",
     "Interviewing/Notes - Interviewing.md",
     "Computer Science/Notes - Data Structures.md",
     "System Design/Notes.md",
-    "Computer Science/Notes - Algorithms.md",
-    "Interviewing/Notes - Company Comparisons.md"
+    "Computer Science/Notes - Algorithms.md"
   ]
 }
