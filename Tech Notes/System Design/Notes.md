@@ -16,6 +16,7 @@ https://sre.google/sre-book/introduction/
 
 https://w7cloud.com/distributed-systems-interview-questions/
 https://in.indeed.com/career-advice/interviewing/database-design-interview-questions
+https://in.indeed.com/career-advice/interviewing/distributed-systems-interview-questions
 
 https://www.reddit.com/r/cscareerquestions/comments/30y89g/how_do_you_answer_interview_questions_on_large/
 
@@ -48,4 +49,8 @@ https://www.edureka.co/blog/aws-elastic-beanstalk/
 https://aws.amazon.com/builders-library/leader-election-in-distributed-systems/
 
 https://ajbrown.org/2017/02/10/leader-election-with-aws-auto-scaling-groups.html
+
+https://algodaily.com/lessons/what-is-a-container-a-docker-tutorial
+
+https://algodaily.com/lessons/a-beginners-reference-to-sql-vs-nosql
 
