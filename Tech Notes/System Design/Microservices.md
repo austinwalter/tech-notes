@@ -14,6 +14,7 @@ The microservice architecture enables the rapid, frequent and reliable delivery 
 - Kubernetes
 - Istio
 - Serverless
+- [Up](https://github.com/apex/up)
 - Terraform
 
 ## References
