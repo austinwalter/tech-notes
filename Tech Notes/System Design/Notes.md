@@ -39,3 +39,5 @@ https://cloud.google.com/blog/topics/solutions-how-tos/optimize-your-system-desi
 
 https://www.intercom.com/blog/six-principles-of-system-design/
 
+https://www.educative.io/blog/complete-guide-to-system-design
+
