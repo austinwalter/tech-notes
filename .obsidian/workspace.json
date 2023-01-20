@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/notes.md",
+                "file": "Interviewing/Cover Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/notes.md",
+                "file": "Interviewing/Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/notes.md"
+                "file": "Interviewing/Cover Letter.md"
               }
             }
           }
@@ -166,15 +166,15 @@
   },
   "active": "fedac207ef1aca29",
   "lastOpenFiles": [
+    "Interviewing/Engineering Interviews.md",
+    "Interviewing/notes.md",
     "Interviewing/Notes - Interviewing.md",
     "Interviewing/Cover Letter.md",
     "Interviewing/Experience Summary.md",
-    "Interviewing/Engineering Interviews.md",
     "Interviewing/Former Founder.md",
     "Tech Notes/System Design/Notes.md",
     "Interviewing/Companies/Time by Ping.md",
     "Tech Notes/System Design/Microservices.md",
-    "Interviewing/LinkedIn.md",
-    "Pet Info.md"
+    "Interviewing/LinkedIn.md"
   ]
 }
