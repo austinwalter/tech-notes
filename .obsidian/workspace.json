@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "afbaec57c379a475",
+        "id": "71fa70de9b0f076f",
         "type": "tabs",
         "children": [
           {
-            "id": "17acbfd2c8431ded",
+            "id": "f7e60bbede6e7035",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Engineering Interviews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4356cc3cfd5f548e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Engineering Interviews.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2ad6b92620561ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fedac207ef1aca29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9477cc6905239f52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/System Design/Microservices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interviewing/notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,17 +108,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fedac207ef1aca29",
+  "active": "f7e60bbede6e7035",
   "lastOpenFiles": [
-    "Interviewing/Cover Letter.md",
-    "Interviewing/Engineering Interviews.md",
+    "Interviewing/LinkedIn.md",
     "Interviewing/notes.md",
     "Interviewing/Notes - Interviewing.md",
-    "Interviewing/Experience Summary.md",
-    "Interviewing/Former Founder.md",
-    "Tech Notes/System Design/Notes.md",
-    "Interviewing/Companies/Time by Ping.md",
+    "Interviewing/Resume.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/System Design/Microservices.md",
-    "Interviewing/LinkedIn.md"
+    "Interviewing/Engineering Interviews.md",
+    "Interviewing/Cover Letter.md",
+    "Interviewing/Experience Summary.md",
+    "Interviewing/Former Founder.md"
   ]
 }
