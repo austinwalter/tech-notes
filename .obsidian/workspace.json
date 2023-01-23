@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Resume.md",
+                "file": "Interviewing/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Resume.md"
+                "file": "Interviewing/notes.md"
               }
             }
           }
@@ -133,10 +133,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0ba17854cb7016d3",
+  "active": "f7e60bbede6e7035",
   "lastOpenFiles": [
-    "Interviewing/notes.md",
     "Interviewing/Resume.md",
+    "Interviewing/notes.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Notes - Math.md",
