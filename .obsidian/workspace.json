@@ -6,6 +6,7 @@
       {
         "id": "bf58635ac8a6a4c7",
         "type": "tabs",
+        "dimension": 46.76304211187932,
         "children": [
           {
             "id": "9e8c8bc9b638261d",
@@ -13,7 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md",
+                "file": "Interviewing/Experience Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2fb853c9fd629a9b",
+        "type": "tabs",
+        "dimension": 53.236957888120685,
+        "children": [
+          {
+            "id": "f25456ff3973a205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Notes - Interviewing.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md",
+                "file": "Interviewing/Experience Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Companies/Time by Ping.md"
+                "file": "Interviewing/Experience Summary.md"
               }
             }
           }
@@ -117,15 +137,15 @@
   },
   "active": "9e8c8bc9b638261d",
   "lastOpenFiles": [
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
-    "Tech Notes/Computer Science/Notes - Math.md",
-    "Tech Notes/Computer Science/Concepts.md",
-    "Tech Notes/Machine Learning/Statistics.md",
-    "Tech Notes/Computer Science/Notes - Data Structures.md",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Interviewing/Companies/Time by Ping.md",
+    "Interviewing/Companies/Open AI.md",
     "Interviewing/Resume.md",
     "Interviewing/Notes - Interviewing.md",
     "Interviewing/System Design Notes.md",
-    "Tech Notes/System Design/Microservices.md"
+    "Interviewing/Experience Summary.md",
+    "Interviewing/Engineering Interviews.md",
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Notes - Math.md",
+    "Tech Notes/Computer Science/Concepts.md"
   ]
 }
