@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "98d3932824a5c3ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "65cb66a73cb8ab36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -136,10 +118,10 @@
   "active": "9e8c8bc9b638261d",
   "lastOpenFiles": [
     "Tech Notes/Computer Science/Notes - Math.md",
-    "Tech Notes/Machine Learning/Statistics.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
-    "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Concepts.md",
+    "Tech Notes/Machine Learning/Statistics.md",
+    "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Interviewing/Resume.md",
     "Interviewing/Notes - Interviewing.md",

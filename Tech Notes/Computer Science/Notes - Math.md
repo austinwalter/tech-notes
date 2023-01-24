@@ -28,7 +28,7 @@ x ^ x  = 0    x & x  = 1    x | x  = x
 y = ~x + 1
 ```
 
-## Newton's method
+## Finding Square Root (Newton's method)
 
 One of the best and widely used methods to compute sqrt is Newton's Method. Here we'll implement the version without the seed trimming to keep things simple. However, seed trimming is a bit of math and lot of fun, so here is a link if you'd like to dive in.
 
@@ -56,12 +56,37 @@ class Solution {
 }
 ```
 
-Complexity Analysis
+#### Complexity Analysis
 
-Time complexity : O(log⁡N)\mathcal{O}(\log N)O(logN) since the set converges quadratically.
-
-Space complexity : O(1)\mathcal{O}(1)O(1).
-
+Time complexity : $O(\log n)$ since the set converges quadratically.
+Space complexity : $O(1)$
 
 https://leetcode.com/problems/sqrtx/solutions/1867232/illustration-of-the-newtons-method-for-beginner-easy-detailed-explanation/
 
+## Finding Prime Numbers (Sieve of Eratosthenes)
+
+The sieve of Eratosthenes is an ancient algorithm for finding all prime numbers up to any given limit.
+
+```
+algorithm Sieve of Eratosthenes is
+	input: an integer n > 1.
+    output: all prime numbers from 2 through n.
+
+    let A be an array of Boolean values, indexed by integers 2 to n,
+    initially all set to true.
+    
+    for i = 2, 3, 4, ..., not exceeding √n do
+        if A[i] is true
+            for j = i2, i2+i, i2+2i, i2+3i, ..., not exceeding n do
+                set A[j] := false
+
+    return all i such that A[i] is true.
+```
+
+#### Complexity Analysis
+
+Time Complexity: $O(\sqrt{n} \log \log n)$
+Space complexity : $O(1)$
+
+https://leetcode.com/problems/count-primes/solutions/1157321/count-primes/
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
