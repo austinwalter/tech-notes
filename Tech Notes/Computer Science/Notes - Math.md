@@ -1,3 +1,5 @@
+# Math
+
 ## Power of 2 Table
 
 Power of 2 | Full | Exact Value (X)   | Aprx Value    | X Bytes into MB, GB, etc
@@ -26,4 +28,5 @@ x ^ x  = 0    x & x  = 1    x | x  = x
 y = ~x + 1
 ```
 
-Newton's method
+## Newton's method
+
