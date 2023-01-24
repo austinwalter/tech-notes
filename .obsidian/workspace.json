@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Algorithms.md",
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Algorithms.md",
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Algorithms.md"
+                "file": "Interviewing/Companies/Time by Ping.md"
               }
             }
           }
@@ -117,8 +117,8 @@
   },
   "active": "9e8c8bc9b638261d",
   "lastOpenFiles": [
-    "Tech Notes/Computer Science/Notes - Math.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Notes - Math.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Machine Learning/Statistics.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
