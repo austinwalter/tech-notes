@@ -6,11 +6,11 @@ KMP Algorithm
 RK Algorithm
 BM Algorithm
 Hoare's selection algorithm (quickselect)
-Divide and Conquer
 Dijkstra's algorithm
 
 ### Techniques
 Sliding Window
+Divide and Conquer
 Two Pointers
 Three Pointers
 
