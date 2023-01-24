@@ -6,7 +6,6 @@ KMP Algorithm
 RK Algorithm
 BM Algorithm
 Sieve of Eratosthenes
-Newton's method
 Hoare's selection algorithm (quickselect)
 Divide and Conquer
 Dijkstra's algorithm

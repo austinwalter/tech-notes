@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Math.md",
+                "file": "Tech Notes/Computer Science/Notes - Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Math.md",
+                "file": "Tech Notes/Computer Science/Notes - Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Math.md"
+                "file": "Tech Notes/Computer Science/Notes - Algorithms.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "9e8c8bc9b638261d",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Math.md",
+    "Tech Notes/Machine Learning/Statistics.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Concepts.md",
-    "Tech Notes/Computer Science/Notes - Math.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Interviewing/Resume.md",
     "Interviewing/Notes - Interviewing.md",
     "Interviewing/System Design Notes.md",
-    "Tech Notes/System Design/Microservices.md",
-    "Tech Notes/System Design/Notes.md"
+    "Tech Notes/System Design/Microservices.md"
   ]
 }

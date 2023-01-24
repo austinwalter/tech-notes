@@ -30,3 +30,38 @@ y = ~x + 1
 
 ## Newton's method
 
+One of the best and widely used methods to compute sqrt is Newton's Method. Here we'll implement the version without the seed trimming to keep things simple. However, seed trimming is a bit of math and lot of fun, so here is a link if you'd like to dive in.
+
+Let's keep the mathematical proofs outside of the article and just use the textbook fact that the set
+
+$$
+x_{k+1} = \frac{1}{2} \left[ x_{k} + \frac{x}{x_{k}} \right]
+$$
+converges to $\sqrt{x}$ if $x_{0} = x$. Then things are straightforward: define that error should be less than 1 and proceed iteratively.
+
+```
+class Solution {
+  public int mySqrt(int x) {
+    if (x < 2) return x;
+
+    double x0 = x;
+    double x1 = (x0 + x / x0) / 2.0;
+    while (Math.abs(x0 - x1) >= 1) {
+      x0 = x1;
+      x1 = (x0 + x / x0) / 2.0;
+    }
+
+    return (int)x1;
+  }
+}
+```
+
+Complexity Analysis
+
+Time complexity : O(log⁡N)\mathcal{O}(\log N)O(logN) since the set converges quadratically.
+
+Space complexity : O(1)\mathcal{O}(1)O(1).
+
+
+https://leetcode.com/problems/sqrtx/solutions/1867232/illustration-of-the-newtons-method-for-beginner-easy-detailed-explanation/
+
