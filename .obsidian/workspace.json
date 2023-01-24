@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/notes.md",
+                "file": "Tech Notes/System Design/Microservices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9da45ad5f58b1ea7",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/notes.md",
+                "file": "Tech Notes/System Design/Microservices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/notes.md"
+                "file": "Tech Notes/System Design/Microservices.md"
               }
             }
           }
@@ -147,17 +148,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f7e60bbede6e7035",
+  "active": "918433d462af8688",
   "lastOpenFiles": [
-    "Interviewing/Resume.md",
-    "Interviewing/Software Design Document.md",
+    "Tech Notes/System Design/Notes.md",
+    "Tech Notes/System Design/Designing Data Applications.md",
+    "Tech Notes/System Design/Software Design Document.md",
     "Interviewing/notes.md",
+    "Interviewing/Resume.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Notes - Math.md",
-    "Tech Notes/System Design/Notes.md",
     "Interviewing/LinkedIn.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md"
+    "Interviewing/Notes - Interviewing.md"
   ]
 }
