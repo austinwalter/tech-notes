@@ -6,6 +6,7 @@ Linked Lists
 Stacks
 Queues
 Maps
+Hash Tables
 
 ## Trees & Graphs
 - N-ary Tree
@@ -78,3 +79,4 @@ Trees:
 
 https://github.com/jwasham/coding-interview-university#data-structures
 https://algodaily.com/challenges/implement-a-hash-map
+https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f

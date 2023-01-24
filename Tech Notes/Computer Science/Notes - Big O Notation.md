@@ -8,7 +8,7 @@ Big O notation is the language we use for talking about how long an algorithm ta
 
 **The three versions of these measurements:**
 - Best Case (**Ω**)
-- Average Case (**Θ**)
+- Average Case (**Θ**) (Amortized?)
 - Worst Case (**O**)
 
 **Some common types for output given an input `n` are:**
@@ -21,6 +21,10 @@ Big O notation is the language we use for talking about how long an algorithm ta
 - $O(n!)$ - factorial (time/space grows crazy big to `n` size)
 - $O(m+n)$ - additive linear (timSourcee/space grows proportional to `n` and `m`)
 - $O(mn)$ - multiplied
+
+**Common Rules of Thumb**
+* Sequential loops = addition
+* Nested loops = multiplication
 
 ![[big-o-chart.png]]
 

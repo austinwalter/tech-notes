@@ -11,8 +11,30 @@
             "id": "9e8c8bc9b638261d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Computer Science/Notes - Math.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "98d3932824a5c3ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cb66a73cb8ab36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Computer Science/Concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/Computer Science/Notes - Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/Computer Science/Notes - Math.md"
+              }
             }
           }
         ]
@@ -110,15 +135,15 @@
   },
   "active": "9e8c8bc9b638261d",
   "lastOpenFiles": [
-    "Interviewing/Resume.md",
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Concepts.md",
+    "Tech Notes/Computer Science/Notes - Math.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Interviewing/Resume.md",
     "Interviewing/Notes - Interviewing.md",
     "Interviewing/System Design Notes.md",
     "Tech Notes/System Design/Microservices.md",
-    "Tech Notes/System Design/Notes.md",
-    "Tech Notes/System Design/Designing Data Applications.md",
-    "Tech Notes/System Design/Software Design Document.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
-    "Tech Notes/Computer Science/Notes - Math.md"
+    "Tech Notes/System Design/Notes.md"
   ]
 }
