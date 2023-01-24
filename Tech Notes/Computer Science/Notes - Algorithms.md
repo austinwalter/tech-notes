@@ -42,7 +42,7 @@ roughly in increasing difficulty
 4. Floyd Warshall
 	(Floyd Warshall, Bellman Ford, and Dijkstra are all shortest path algorithms with different advantages/disadvantages)
 5. Bellman Ford
-	(btw, the optimization here is verrry useful. Turns the running time into something like O(# of edges) on the average case)
+	(btw, the optimization here is very useful. Turns the running time into something like O(# of edges) on the average case)
 6. Dijkstra
 7. Prim's Algorithm
 	(not that necessary, since Kruskall's is better in almost every way)
