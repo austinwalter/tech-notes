@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d50649aa309daf7",
+            "id": "9ec0e7c5e70bf45f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/System Design/Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12be1b169c381c55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Computer Science/Notes - Algorithms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e096c00f6ed5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Computer Science/Search.md",
+                "file": "Interviewing/Companies/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Search.md",
+                "file": "Interviewing/Companies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Search.md"
+                "file": "Interviewing/Companies/Untitled.md"
               }
             }
           }
@@ -140,17 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "29e096c00f6ed5e7",
+  "active": "9ec0e7c5e70bf45f",
   "lastOpenFiles": [
+    "Interviewing/Companies/Airbnb.md",
+    "Interviewing/Companies/Untitled.md",
+    "Tech Notes/System Design/Notes.md",
+    "Interviewing/Resume.md",
+    "Tech Notes/Computer Science/Search.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/System Design/Concurrency Control.md",
     "Other - Care Package.md",
-    "Tech Notes/System Design/Notes.md",
     "Tech Notes/System Design/Designing Data Applications.md",
-    "Tech Notes/System Design/Microservices.md",
-    "Interviewing/System Design Notes.md",
-    "Interviewing/Resume.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Interviewing/LinkedIn.md"
+    "Tech Notes/System Design/Microservices.md"
   ]
 }
