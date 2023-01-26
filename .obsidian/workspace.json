@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "34fb1892a47167c7",
+        "id": "13a0f22fcbdfe07c",
         "type": "tabs",
         "children": [
           {
-            "id": "6b0350def3e7fe57",
+            "id": "202cfa8020d68e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md",
+                "file": "Tech Notes/Computer Science/Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md",
+                "file": "Tech Notes/Computer Science/Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md"
+                "file": "Tech Notes/Computer Science/Search.md"
               }
             }
           }
@@ -115,8 +115,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6b0350def3e7fe57",
+  "active": "202cfa8020d68e3d",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Interviewing/Companies/Turn App.md",
     "Interviewing/Companies/Airbnb.md",
@@ -125,7 +126,6 @@
     "Tech Notes/Computer Science/Search.md",
     "Tech Notes/System Design/Concurrency Control.md",
     "Other - Care Package.md",
-    "Tech Notes/System Design/Designing Data Applications.md",
-    "Tech Notes/System Design/Microservices.md"
+    "Tech Notes/System Design/Designing Data Applications.md"
   ]
 }

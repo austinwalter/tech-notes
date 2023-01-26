@@ -32,3 +32,11 @@ Space complexity : O(k)\mathcal{O}(k)O(k) to store the heap elements.
 
 **Reference:**
 https://leetcode.com/problems/kth-largest-element-in-an-array/solutions/214469/official-solution/
+
+
+
+
+[-1,0,1,2,-1,-4]
+[0,1,1]
+[0,0,0]
+[0,0,0,0]
