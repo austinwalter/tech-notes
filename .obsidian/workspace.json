@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Computer Science/Search.md",
+                "file": "Tech Notes/Computer Science/Notes - Data Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Search.md",
+                "file": "Tech Notes/Computer Science/Notes - Data Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Search.md"
+                "file": "Tech Notes/Computer Science/Notes - Data Structures.md"
               }
             }
           }
@@ -117,13 +117,13 @@
   },
   "active": "202cfa8020d68e3d",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Search.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Interviewing/Companies/Turn App.md",
     "Interviewing/Companies/Airbnb.md",
     "Tech Notes/System Design/Notes.md",
     "Interviewing/Resume.md",
-    "Tech Notes/Computer Science/Search.md",
     "Tech Notes/System Design/Concurrency Control.md",
     "Other - Care Package.md",
     "Tech Notes/System Design/Designing Data Applications.md"
