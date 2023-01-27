@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "202cfa8020d68e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other - Care Package.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b698c3c2b0b9e2d3",
             "type": "leaf",
             "state": {
@@ -31,8 +19,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2854aa8dec50802c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "940a47e8ea1d19fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Notes - Interviewing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,15 +135,15 @@
   },
   "active": "b698c3c2b0b9e2d3",
   "lastOpenFiles": [
-    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Interviewing/Notes - Interviewing.md",
+    "Interviewing/Companies/Turn App.md",
     "Other - Care Package.md",
+    "Tech Notes/Computer Science/Dynamic Programming.md",
     "Interviewing/Experience Summary.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Search.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Interviewing/Companies/Turn App.md",
-    "Interviewing/Companies/Airbnb.md",
-    "Tech Notes/System Design/Notes.md"
+    "Interviewing/Companies/Airbnb.md"
   ]
 }
