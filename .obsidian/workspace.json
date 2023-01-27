@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b698c3c2b0b9e2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Companies/Turn App.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other - Care Package.md",
+                "file": "Interviewing/Companies/Turn App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other - Care Package.md"
+                "file": "Interviewing/Companies/Turn App.md"
               }
             }
           }
@@ -115,8 +128,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "202cfa8020d68e3d",
+  "active": "b698c3c2b0b9e2d3",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Other - Care Package.md",
     "Interviewing/Experience Summary.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
@@ -124,8 +139,6 @@
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Interviewing/Companies/Turn App.md",
     "Interviewing/Companies/Airbnb.md",
-    "Tech Notes/System Design/Notes.md",
-    "Interviewing/Resume.md",
-    "Tech Notes/System Design/Concurrency Control.md"
+    "Tech Notes/System Design/Notes.md"
   ]
 }
