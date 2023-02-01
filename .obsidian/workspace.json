@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "13a0f22fcbdfe07c",
+        "id": "471a2b65461b80ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b698c3c2b0b9e2d3",
+            "id": "622333bc5d470978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Companies/Turn App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "2854aa8dec50802c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "940a47e8ea1d19fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Notes - Interviewing.md",
+                "file": "TV Shows.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Companies/Turn App.md",
+                "file": "TV Shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Companies/Turn App.md"
+                "file": "TV Shows.md"
               }
             }
           }
@@ -133,17 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b698c3c2b0b9e2d3",
+  "active": "622333bc5d470978",
   "lastOpenFiles": [
+    "Home Media/Create Server Image.md",
+    "Home Media/Media - Jellyfin.md",
+    "Home Media/Media - Video Processing.md",
+    "Movies.md",
     "Interviewing/Notes - Interviewing.md",
     "Interviewing/Companies/Turn App.md",
     "Other - Care Package.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
     "Interviewing/Experience Summary.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
-    "Tech Notes/Computer Science/Notes - Data Structures.md",
-    "Tech Notes/Computer Science/Search.md",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Interviewing/Companies/Airbnb.md"
+    "Tech Notes/Computer Science/Notes - Algorithms.md"
   ]
 }
