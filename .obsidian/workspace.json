@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "83d0470b72c9812d",
+        "id": "024d154f8d020caa",
         "type": "tabs",
         "children": [
           {
-            "id": "784768c45ca3d19c",
+            "id": "f31deee16bd020b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Companies/Turn App.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95f4d2ad43c1c62a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Experience Summary.md",
+                "file": "Tech Notes/System Design/Software Design Document.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Experience Summary.md",
+                "file": "Tech Notes/System Design/Software Design Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Experience Summary.md"
+                "file": "Tech Notes/System Design/Software Design Document.md"
               }
             }
           }
@@ -128,17 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "95f4d2ad43c1c62a",
+  "active": "f31deee16bd020b1",
   "lastOpenFiles": [
-    "Interviewing/Cover Letter.md",
-    "Interviewing/Engineering Interviews.md",
+    "Tech Notes/System Design/Microservices.md",
+    "Tech Notes/System Design/Notes.md",
+    "Tech Notes/Computer Science/Concepts.md",
+    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Interviewing/Companies/Infinitus AI.md",
+    "Interviewing/Companies/Mixpanel.md",
+    "Interviewing/Companies/Time by Ping.md",
     "Interviewing/Experience Summary.md",
-    "Interviewing/LinkedIn.md",
-    "Interviewing/Notes - Interviewing.md",
-    "Tech Notes/Computer Science/Notes - Math.md",
-    "Interviewing/Companies/Turn App.md",
-    "TV Shows.md",
-    "Home Media/Create Server Image.md",
-    "Home Media/Media - Jellyfin.md"
+    "Interviewing/Cover Letter.md",
+    "Interviewing/Engineering Interviews.md"
   ]
 }
