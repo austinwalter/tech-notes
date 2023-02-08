@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f31deee16bd020b1",
+            "id": "deeac83d7c2076e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviewing/Experience Summary.md",
+                "file": "Interviewing/Notes - Interviewing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb34c11473501b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff9ef3b7562d7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Companies/Time by Ping.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -77,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Experience Summary.md",
+                "file": "Interviewing/Notes - Interviewing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviewing/Experience Summary.md"
+                "file": "Interviewing/Notes - Interviewing.md"
               }
             }
           }
@@ -115,17 +134,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f31deee16bd020b1",
+  "active": "deeac83d7c2076e1",
   "lastOpenFiles": [
-    "Interviewing/Engineering Interviews.md",
-    "Interviewing/Resume.md",
-    "Tech Notes/System Design/Microservices.md",
-    "Tech Notes/System Design/Software Design Document.md",
-    "Tech Notes/System Design/Notes.md",
-    "Tech Notes/Computer Science/Concepts.md",
+    "Interviewing/Companies/Time by Ping.md",
+    "Interviewing/Notes - Interviewing.md",
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
-    "Interviewing/Companies/Infinitus AI.md",
-    "Interviewing/Companies/Mixpanel.md",
-    "Interviewing/Companies/Time by Ping.md"
+    "Tech Notes/Computer Science/Concepts.md",
+    "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
+    "Tech Notes/Computer Science/Notes - Math.md",
+    "Tech Notes/Computer Science/Notes - Data Structures.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Interviewing/Experience Summary.md"
   ]
 }
