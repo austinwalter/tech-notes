@@ -11,11 +11,28 @@
             "id": "8c508d14a4596a59",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Experience Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9e2e06c696e487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviewing/Behavioral Questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interviewing/Behavioral Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interviewing/Behavioral Questions.md"
+              }
             }
           }
         ]
@@ -108,8 +128,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8c508d14a4596a59",
+  "active": "fc9e2e06c696e487",
   "lastOpenFiles": [
+    "Interviewing/Experience Summary.md",
     "Interviewing/Companies/Time by Ping.md",
     "Untitled.md",
     "Interviewing/Notes - Interviewing.md",
@@ -118,7 +139,6 @@
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "Tech Notes/Computer Science/Notes - Math.md",
-    "Tech Notes/Computer Science/Notes - Data Structures.md",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md"
+    "Tech Notes/Computer Science/Notes - Data Structures.md"
   ]
 }
