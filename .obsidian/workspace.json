@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "32b3c2ac2a506374",
+        "id": "0e1a0f1d36143573",
         "type": "tabs",
         "children": [
           {
-            "id": "82bd00efd5684789",
+            "id": "1c338a384ce6aa97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Behavioral Questions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Behavioral Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interviewing/Behavioral Questions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,8 +108,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "82bd00efd5684789",
+  "active": "1c338a384ce6aa97",
   "lastOpenFiles": [
+    "Interviewing/Behavioral Questions.md",
     "Interviewing/Experience Summary.md",
     "Interviewing/Engineering Interviews.md",
     "Untitled.md",
@@ -125,7 +119,6 @@
     "Credder/Credder - Notes.md",
     "Credder/Credder - New Tasks.md",
     "Credder/Credder - FAQ.md",
-    "Interviewing/Behavioral Questions.md",
     "Interviewing/Companies/Time by Ping.md"
   ]
 }
