@@ -19,7 +19,7 @@ Big O notation is the language we use for talking about how long an algorithm ta
 - $O(n^2)$ - exponential (time/space grows exponentially to `n` size)
 - $O(2^n)$ - exponential to `n` (even more exponential)
 - $O(n!)$ - factorial (time/space grows crazy big to `n` size)
-- $O(m+n)$ - additive linear (timSourcee/space grows proportional to `n` and `m`)
+- $O(m+n)$ - additive linear (time/space grows proportional to `n` and `m`)
 - $O(mn)$ - multiplied
 
 **Common Rules of Thumb**
