@@ -11,8 +11,12 @@
             "id": "1c338a384ce6aa97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/Computer Science/Notes - Big O Notation.md"
+              }
             }
           }
         ]
@@ -110,15 +117,15 @@
   },
   "active": "1c338a384ce6aa97",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Tech Notes/Computer Science/Concepts.md",
+    "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
+    "Tech Notes/Computer Science/Notes - Data Structures.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Interviewing/Behavioral Questions.md",
     "Interviewing/Experience Summary.md",
     "Interviewing/Engineering Interviews.md",
-    "Untitled.md",
-    "Credder/Credder - Trust Ladder.md",
-    "Credder/Credder - Tasks.md",
-    "Credder/Credder - Notes.md",
-    "Credder/Credder - New Tasks.md",
-    "Credder/Credder - FAQ.md",
-    "Interviewing/Companies/Time by Ping.md"
+    "Untitled.md"
   ]
 }
