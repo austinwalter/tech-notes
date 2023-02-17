@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e1a0f1d36143573",
+        "id": "0e2adec3b19b2fea",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf4a4de04a4dd5f",
+            "id": "06251b2c4e0b2259",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TV Shows.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TV Shows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TV Shows.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,8 +108,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fbf4a4de04a4dd5f",
+  "active": "06251b2c4e0b2259",
   "lastOpenFiles": [
+    "TV Shows.md",
     "Project Ideas/Notes Summary.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
@@ -125,7 +119,6 @@
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Interviewing/Behavioral Questions.md",
-    "Interviewing/Experience Summary.md",
-    "Interviewing/Engineering Interviews.md"
+    "Interviewing/Experience Summary.md"
   ]
 }
