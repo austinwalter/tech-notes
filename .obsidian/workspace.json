@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -109,7 +108,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02dea07c18850060",
+  "active": "dfaadb1c08381ab0",
   "lastOpenFiles": [
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
