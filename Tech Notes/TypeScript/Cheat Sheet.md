@@ -5,11 +5,13 @@
 ### If Statements
 ![[typescript-if-statements.png]]
 ### Assignment
-![[typescript-assignments-unions.png]]
-
+![[typescript-assignment.png]]
+### Discriminated Unions
 ![[typescript-discriminated-unions.png]]
-
-
+### Assertion Functions
+![[typescript-assertion-functions.png]]
+### Discriminated Unions
+![[typescript-discriminated-unions.png]]
 
 ### Interface
 

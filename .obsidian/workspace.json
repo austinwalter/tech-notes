@@ -39,7 +39,7 @@
               "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -142,21 +142,20 @@
   },
   "active": "e26b9f46c796ddb4",
   "lastOpenFiles": [
-    "_media/typescript-assignments-unions.png",
-    "_media/typescript-discriminated-unions.png",
-    "_media/typescript-assignments.png",
-    "_media/typescript-if-statements.png",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Credder/metrics.md",
     "Tech Notes/TypeScript/Cheat Sheet.md",
+    "_media/typescript-type-guards.png",
+    "_media/typescript-if-statements.png",
+    "_media/typescript-expressions.png",
+    "_media/typescript-discriminated-unions.png",
+    "_media/typescript-assignment.png",
+    "_media/typescript-assertion-functions.png",
+    "_media/typescript-assignments-unions.png",
+    "_media/typescript-assignments.png",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
-    "_media/typescript-control-flow-analysis.png",
-    "_media/typescript-classes.png",
-    "_media/TypeScript Types.png",
-    "_media/TypeScript Interfaces.png",
-    "_media/TypeScript Control Flow Analysis.png",
-    "Credder/metrics.md",
     "Tech Notes/TypeScript",
     "Credder/Credder - Notes.md",
     "Interviewing/Behavioral Questions.md",
