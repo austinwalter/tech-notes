@@ -4,21 +4,26 @@
 
 ### If Statements
 ![[typescript-if-statements.png]]
+
+### Discriminated Unions
+![[typescript-discriminated-unions.png]]
+
 ### Assignment
 ![[typescript-assignment.png]]
-### Discriminated Unions
-![[typescript-discriminated-unions.png]]
+
+### Type Guards
+![[typescript-type-guards.png]]
+
 ### Assertion Functions
 ![[typescript-assertion-functions.png]]
-### Discriminated Unions
-![[typescript-discriminated-unions.png]]
 
 ### Interface
-
 ![[typescript-interfaces.png]]
-## Type
 
+## Type
 ![[typescript-types.png]]
+
+## Classes
 ![[typescript-classes.png]]
 
 ## References

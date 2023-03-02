@@ -39,7 +39,7 @@
               "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
