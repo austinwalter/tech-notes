@@ -1,19 +1,8 @@
 
-```JS
-interface JSONResponse extends Response, HTTPAble {
-	version: number;
+![[typescript-control-flow-analysis.png]]
+![[typescript-interfaces.png]]
+![[typescript-types.png]]
+![[typescript-classes.png]]
 
-	/** In bytes */
-	
-	update: (retryTimes: number) => void;
-	update(retryTimes: number): void;
-	
-	(): JSONResponse
-	
-	new(s: string): JSONResponse;
-	
-	[key: string]: number;
-	
-	readonly body: string;
-}
-```
+## References
+https://www.typescriptlang.org/cheatsheets

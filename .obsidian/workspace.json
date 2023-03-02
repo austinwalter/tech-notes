@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -142,16 +142,24 @@
   },
   "active": "e26b9f46c796ddb4",
   "lastOpenFiles": [
-    "Credder/metrics.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/TypeScript/Cheat Sheet.md",
+    "_media/typescript-types.png",
+    "_media/typescript-interfaces.png",
+    "_media/typescript-control-flow-analysis.png",
+    "_media/typescript-classes.png",
+    "_media/TypeScript Types.png",
+    "_media/TypeScript Interfaces.png",
+    "_media/TypeScript Control Flow Analysis.png",
+    "_media/TypeScript Classes.png",
+    "Credder/metrics.md",
     "Tech Notes/TypeScript",
     "Credder/Credder - Notes.md",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
     "Project Ideas/Notes Summary.md",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
