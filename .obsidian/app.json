@@ -14,5 +14,5 @@
   "tabSize": 4,
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }

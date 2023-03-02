@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -143,8 +143,8 @@
   "active": "e26b9f46c796ddb4",
   "lastOpenFiles": [
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/TypeScript/Cheat Sheet.md",
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
     "_media/typescript-control-flow-analysis.png",
