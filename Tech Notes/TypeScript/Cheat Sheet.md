@@ -7,6 +7,8 @@
 ### Assignment
 ![[typescript-assignments.png]]
 
+![[typescript-discriminated-unions.png]]
+
 
 
 ### Interface
