@@ -11,11 +11,28 @@
             "id": "dfaadb1c08381ab0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Credder/Credder - Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2030afab14240e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credder/metrics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Credder/metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Credder/metrics.md"
+              }
             }
           }
         ]
@@ -108,8 +128,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dfaadb1c08381ab0",
+  "active": "2030afab14240e04",
   "lastOpenFiles": [
+    "Credder/Credder - Notes.md",
+    "Credder/metrics.md",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
