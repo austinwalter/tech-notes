@@ -24,7 +24,7 @@ A function describing CFA changes affecting the current scope, because it throws
 ![[typescript-interfaces.png]]
 
 ## Type
-![[typescript-types.png]]
+![[typescript-types.pdf]]
 
 ## Classes
 ![[typescript-classes.png]]
