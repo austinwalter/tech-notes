@@ -2,8 +2,12 @@
 
 ## Control Flow Analysis
 
+### If Statements
 ![[typescript-if-statements.png]]
-![[typescript-control-flow-analysis.png]]
+### Assignment
+![[typescript-assignments.png]]
+
+
 
 ### Interface
 
