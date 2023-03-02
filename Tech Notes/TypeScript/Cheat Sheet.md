@@ -5,7 +5,7 @@
 ### If Statements
 ![[typescript-if-statements.png]]
 ### Assignment
-![[typescript-assignments.png]]
+![[typescript-assignments-unions.png]]
 
 ![[typescript-discriminated-unions.png]]
 
