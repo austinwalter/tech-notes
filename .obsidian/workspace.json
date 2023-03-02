@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "893c89dfc16833aa",
+        "id": "ad89d0ada5f3b34c",
         "type": "tabs",
         "children": [
           {
-            "id": "dfaadb1c08381ab0",
+            "id": "1f0f92da587d8584",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Tech Notes/TypeScript/typescript-types.pdf"
+                "file": "Tech Notes/TypeScript/TypeScript Classes.pdf"
               }
             }
           }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/TypeScript/typescript-types.pdf",
+                "file": "Tech Notes/TypeScript/TypeScript Classes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/TypeScript/typescript-types.pdf"
+                "file": "Tech Notes/TypeScript/TypeScript Classes.pdf"
               }
             }
           }
@@ -115,14 +115,14 @@
   },
   "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
-    "Tech Notes/TypeScript/Cheat Sheet.md",
+    "Tech Notes/TypeScript/Control Flow Analysis.md",
+    "Tech Notes/TypeScript/TypeScript Control Flow Analysis.pdf",
+    "Tech Notes/TypeScript/TypeScript Classes.pdf",
     "Tech Notes/TypeScript/typescript-types.pdf",
     "Credder/Credder - Notes.md",
     "typescript-interfaces.png.md",
     "_media/TypeScript Types.pdf",
     "Tech Notes/TypeScript/TypeScript Interfaces.pdf",
-    "_media/TypeScript Control Flow Analysis.pdf",
-    "Tech Notes/TypeScript/TypeScript Classes.pdf",
     "Credder/metrics.md",
     "_media/typescript-type-guards.png",
     "_media/typescript-if-statements.png",
