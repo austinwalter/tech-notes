@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credder/metrics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e26b9f46c796ddb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +128,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e26b9f46c796ddb4",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
     "Credder/metrics.md",
     "Tech Notes/TypeScript/Cheat Sheet.md",
