@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credder/Credder - Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2030afab14240e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tech Notes/TypeScript/Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,10 +115,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7af3ad1308b965f8",
+  "active": "dfaadb1c08381ab0",
   "lastOpenFiles": [
-    "Credder/metrics.md",
+    "_media/typescript-types.pdf",
+    "Credder/Credder - Notes.md",
+    "typescript-interfaces.png.md",
     "Tech Notes/TypeScript/Cheat Sheet.md",
+    "_media/TypeScript Types.pdf",
+    "_media/TypeScript Interfaces.pdf",
+    "_media/TypeScript Control Flow Analysis.pdf",
+    "_media/TypeScript Classes.pdf",
+    "Credder/metrics.md",
     "_media/typescript-type-guards.png",
     "_media/typescript-if-statements.png",
     "_media/typescript-expressions.png",
@@ -145,7 +139,6 @@
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
     "Tech Notes/TypeScript",
-    "Credder/Credder - Notes.md",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
