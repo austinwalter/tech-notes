@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "39745fd163bcb003",
+        "id": "f1e274974067898b",
         "type": "tabs",
         "children": [
           {
-            "id": "8037e63909438621",
+            "id": "dc2ddb84e3d07488",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Tech Notes/TypeScript/Control Flow Analysis.pdf"
-              }
-            }
-          },
-          {
-            "id": "23c1db2c25259995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviewing/Engineering Interviews.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviewing/Engineering Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interviewing/Engineering Interviews.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,10 +108,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "23c1db2c25259995",
+  "active": "dc2ddb84e3d07488",
   "lastOpenFiles": [
-    "Interviewing/Experience Summary.md",
     "Interviewing/Engineering Interviews.md",
+    "Interviewing/Experience Summary.md",
     "Tech Notes/TypeScript/Control Flow Analysis.md",
     "typescript-interfaces.png.md",
     "Tech Notes/TypeScript/Types.pdf",
