@@ -11,8 +11,12 @@
             "id": "dc2ddb84e3d07488",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project Ideas/Project - Git Notes Summary CLI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Ideas/Project - Git Notes Summary CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Ideas/Project - Git Notes Summary CLI.md"
+              }
             }
           }
         ]
@@ -110,6 +117,9 @@
   },
   "active": "dc2ddb84e3d07488",
   "lastOpenFiles": [
+    "Tech Notes/System Design/Notes.md",
+    "Tech Notes/Biotech.md",
+    "Tech Notes/Electronics.md",
     "Interviewing/Engineering Interviews.md",
     "Interviewing/Experience Summary.md",
     "Tech Notes/TypeScript/Control Flow Analysis.md",
@@ -141,7 +151,7 @@
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
-    "Project Ideas/Notes Summary.md",
+    "Project Ideas/Project - Git Notes Summary CLI.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",

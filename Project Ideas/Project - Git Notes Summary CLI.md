@@ -1,3 +1,5 @@
+Notes CLI is a Rust CLI tool for creating notes from git commits in existing projects
+
 Amazing Marvin
 https://stackoverflow.com/questions/7616482/is-there-an-api-for-git-c-or-other-languages
 
