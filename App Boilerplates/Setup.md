@@ -152,6 +152,49 @@ You can also run this command directly using 'npm init @eslint/config'.
 ```
 
 ```
+✔ How would you like to use ESLint? · style
+✔ What type of modules does your project use? · commonjs
+✔ Which framework does your project use? · none
+✔ Does your project use TypeScript? · No / Yes
+✔ Where does your code run? · node
+✔ How would you like to define a style for your project? · prompt
+✔ What format do you want your config file to be in? · JavaScript
+✔ What style of indentation do you use? · 4
+? What quotes do you use for strings? … 
+▸ Double
+  Single
+```
+
+```
+✔ How would you like to use ESLint? · style
+✔ What type of modules does your project use? · commonjs
+✔ Which framework does your project use? · none
+✔ Does your project use TypeScript? · No / Yes
+✔ Where does your code run? · node
+✔ How would you like to define a style for your project? · prompt
+✔ What format do you want your config file to be in? · JavaScript
+✔ What style of indentation do you use? · 4
+✔ What quotes do you use for strings? · double
+? What line endings do you use? … 
+▸ Unix
+  Windows
+```
+
+```
+✔ How would you like to use ESLint? · style
+✔ What type of modules does your project use? · commonjs
+✔ Which framework does your project use? · none
+✔ Does your project use TypeScript? · No / Yes
+✔ Where does your code run? · node
+✔ How would you like to define a style for your project? · prompt
+✔ What format do you want your config file to be in? · JavaScript
+✔ What style of indentation do you use? · 4
+✔ What quotes do you use for strings? · double
+✔ What line endings do you use? · unix
+? Do you require semicolons? ‣ No / Yes
+```
+
+```
 module.exports = {
 "env": {
 "es2021": true,
@@ -179,5 +222,3 @@ module.exports = {
 };
 ```
 
-
-fffff
