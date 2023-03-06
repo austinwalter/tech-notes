@@ -5,7 +5,7 @@ touch LICENSE
 
 ```
 git init
-touch .gitignore
+wget https://raw.githubusercontent.com/metachris/typescript-boilerplate/master/.gitignore
 git add -A
 git commit -m "Initial commit"
 ```
