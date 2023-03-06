@@ -15,16 +15,14 @@ yarn init
 ```
 
 ```
-yarn init v1.22.19
 question name (node-boilerplate): 
 question version (1.0.0): 0.0.0
-question description: 
+question description: A Node.js project
 question entry point (index.js): 
 question repository url: 
 question author (austinwalter <awalterdev@gmail.com>): 
 question license (MIT): 
-question private: true
+question private: false
 success Saved package.json
-Done in 42.31s.
 ```
 
