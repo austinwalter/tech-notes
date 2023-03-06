@@ -31,7 +31,7 @@ yarn init
 question name (node-boilerplate): 
 question version (1.0.0): 0.0.0
 question description: A Node.js project
-question entry point (index.js): 
+question entry point (index.js): index.ts
 question repository url: 
 question author (austinwalter <awalterdev@gmail.com>): 
 question license (MIT): 
