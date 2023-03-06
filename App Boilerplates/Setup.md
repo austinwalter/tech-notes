@@ -6,6 +6,8 @@ touch LICENSE
 ```
 git init
 touch .gitignore
+git add -A
+git commit -m "Initial commit"
 ```
 
 ```
