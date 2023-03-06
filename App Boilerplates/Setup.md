@@ -55,3 +55,16 @@ yarn add -D jest ts-jest @types/jest
 npx tsc --init
 ```
 
+```
+Created a new tsconfig.json with:
+
+  target: es2016
+  module: commonjs
+  strict: true
+  esModuleInterop: true
+  skipLibCheck: true
+  forceConsistentCasingInFileNames: true
+
+You can learn more at https://aka.ms/tsconfig
+```
+
