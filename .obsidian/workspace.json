@@ -11,8 +11,12 @@
             "id": "4c5775749edcbadb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tech Notes/Computer Science/Concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech Notes/Computer Science/Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tech Notes/Computer Science/Concepts.md"
+              }
             }
           }
         ]
@@ -108,7 +115,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4c5775749edcbadb",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
