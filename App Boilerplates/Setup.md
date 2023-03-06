@@ -10,6 +10,8 @@ git add -A
 git commit -m "Initial commit"
 ```
 
+Initialize `.gitignore`
+
 ```
 node_modules/
 build/
@@ -22,6 +24,8 @@ docs/
 coverage
 *.log
 ```
+
+Initialize `package.json` with `yarn`
 
 ```
 yarn init
