@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f1e274974067898b",
+        "id": "c700282531e89371",
         "type": "tabs",
         "children": [
           {
-            "id": "dc2ddb84e3d07488",
+            "id": "4c5775749edcbadb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Ideas/Project - Git Notes Summary CLI.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "409cc02600cb8dd1",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Ideas/Project - Git Notes Summary CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project Ideas/Project - Git Notes Summary CLI.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,8 +108,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dc2ddb84e3d07488",
+  "active": "4c5775749edcbadb",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Tech Notes/Computer Science/Notes - Big O Notation.md",
+    "Project Ideas/Project - Git Notes Summary CLI.md",
     "Tech Notes/System Design/Notes.md",
     "Tech Notes/Biotech.md",
     "Tech Notes/Electronics.md",
@@ -143,16 +140,12 @@
     "_media/typescript-assertion-functions.png",
     "_media/typescript-assignments-unions.png",
     "_media/typescript-assignments.png",
-    "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
     "Tech Notes/TypeScript",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
-    "Project Ideas/Project - Git Notes Summary CLI.md",
-    "Tech Notes/Computer Science/Dynamic Programming.md",
     "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md"
