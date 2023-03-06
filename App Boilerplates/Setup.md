@@ -83,14 +83,14 @@ You can also run this command directly using 'npm init @eslint/config'.
 ```
 ✔ How would you like to use ESLint? · style
 ? What type of modules does your project use? … 
-▸ JavaScript modules (import/export)
-  CommonJS (require/exports)
+  JavaScript modules (import/export)
+▸ CommonJS (require/exports)
   None of these
 ```
 
 ```
 ✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · esm
+✔ What type of modules does your project use? · commonjs
 ? Which framework does your project use? … 
   React
   Vue.js
@@ -99,18 +99,18 @@ You can also run this command directly using 'npm init @eslint/config'.
 
 ```
 ✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · esm
+✔ What type of modules does your project use? · commonjs
 ✔ Which framework does your project use? · none
 ? Does your project use TypeScript? ‣ No / Yes
 ```
 
 ```
 ✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · esm
+✔ What type of modules does your project use? · commonjs
 ✔ Which framework does your project use? · none
 ✔ Does your project use TypeScript? · No / Yes
 ? Where does your code run? …  (Press <space> to select, <a> to toggle all, <i> to invert selection)
-✔ Browser
+  Browser
 ✔ Node
 ```
 
