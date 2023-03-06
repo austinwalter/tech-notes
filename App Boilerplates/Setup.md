@@ -74,124 +74,37 @@ npx eslint --init
 
 ```
 You can also run this command directly using 'npm init @eslint/config'.
-? How would you like to use ESLint? … 
-  To check syntax only
-  To check syntax and find problems
-▸ To check syntax, find problems, and enforce code style
-```
-
-```
-✔ How would you like to use ESLint? · style
-? What type of modules does your project use? … 
-  JavaScript modules (import/export)
-▸ CommonJS (require/exports)
-  None of these
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-? Which framework does your project use? … 
-  React
-  Vue.js
-▸ None of these
-```
-
-```
 ✔ How would you like to use ESLint? · style
 ✔ What type of modules does your project use? · commonjs
 ✔ Which framework does your project use? · none
-? Does your project use TypeScript? ‣ No / Yes
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-? Where does your code run? …  (Press <space> to select, <a> to toggle all, <i> to invert selection)
-  Browser
-✔ Node
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-✔ Where does your code run? · node
-? How would you like to define a style for your project? … 
-  Use a popular style guide
-▸ Answer questions about your style
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · prompt
-? What format do you want your config file to be in? … 
-▸ JavaScript
-  YAML
-  JSON
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · prompt
-✔ What format do you want your config file to be in? · JavaScript
-? What style of indentation do you use? … 
-  Tabs
-▸ Spaces
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · prompt
-✔ What format do you want your config file to be in? · JavaScript
-✔ What style of indentation do you use? · 4
-? What quotes do you use for strings? … 
-▸ Double
-  Single
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / Yes
-✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · prompt
-✔ What format do you want your config file to be in? · JavaScript
-✔ What style of indentation do you use? · 4
-✔ What quotes do you use for strings? · double
-? What line endings do you use? … 
-▸ Unix
-  Windows
-```
-
-```
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / <u>Yes</u>
+✔ Does your project use TypeScript? · No / <Yes>
 ✔ Where does your code run? · node
 ✔ How would you like to define a style for your project? · prompt
 ✔ What format do you want your config file to be in? · JavaScript
 ✔ What style of indentation do you use? · 4
 ✔ What quotes do you use for strings? · double
 ✔ What line endings do you use? · unix
-? Do you require semicolons? ‣ No / <ins>Yes</ins>
+✔ Do you require semicolons? · No / <Yes>
+The config that you've selected requires the following dependencies: ...
+✔ Would you like to install them now? · No / <Yes>
+✔ Which package manager do you want to use? · yarn
+```
+
+```
+yarn add v1.22.19
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved 2 new dependencies.
+info Direct dependencies
+├─ @typescript-eslint/eslint-plugin@5.54.1
+└─ @typescript-eslint/parser@5.54.1
+info All dependencies
+├─ @typescript-eslint/eslint-plugin@5.54.1
+└─ @typescript-eslint/parser@5.54.1
+Done in 3.30s.
+Successfully created .eslintrc.js file in ...
 ```
 
 ```
