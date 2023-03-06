@@ -5,9 +5,22 @@ touch LICENSE
 
 ```
 git init
-wget https://raw.githubusercontent.com/metachris/typescript-boilerplate/master/.gitignore
+touch .gitignore
 git add -A
 git commit -m "Initial commit"
+```
+
+```
+node_modules/
+build/
+lib/
+dist/
+docs/
+.idea/*
+
+.DS_Store
+coverage
+*.log
 ```
 
 ```
