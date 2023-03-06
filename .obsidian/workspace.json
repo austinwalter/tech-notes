@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c5775749edcbadb",
+            "id": "f279afb1d16da9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md",
+                "file": "App Boilerplates/Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md",
+                "file": "App Boilerplates/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md"
+                "file": "App Boilerplates/Setup.md"
               }
             }
           }
@@ -115,8 +115,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7af3ad1308b965f8",
+  "active": "f279afb1d16da9dc",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Concepts.md",
+    "App Boilerplates/Setup.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
     "Tech Notes/Computer Science/Dynamic Programming.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
@@ -153,7 +155,6 @@
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md",
-    "Tech Notes/Computer Science/Concepts.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md"
   ]
