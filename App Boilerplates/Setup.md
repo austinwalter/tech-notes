@@ -1,8 +1,11 @@
+
+#### Add ReadMe and License
 ```
 touch README.md
 touch LICENSE
 ```
 
+#### Initialize Git
 ```
 git init
 touch .gitignore
@@ -10,8 +13,7 @@ git add -A
 git commit -m "Initial commit"
 ```
 
-Initialize `.gitignore`
-
+`.gitignore`
 ```
 node_modules/
 build/
@@ -25,8 +27,7 @@ coverage
 *.log
 ```
 
-Initialize `package.json` with `yarn`
-
+#### Initialize `package.json` with `yarn`
 ```
 yarn init
 ```
@@ -43,16 +44,16 @@ question private: false
 success Saved package.json
 ```
 
-Install TypeScript, linter and Jest
-
+#### Install TypeScript, linter and Jest
 ```
 yarn add -D typescript @types/node ts-node
 yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 yarn add -D jest ts-jest @types/jest
 ```
 
+#### Initialize TypeScript Config
 ```
-npx tsc --init
+npx typescript --init
 ```
 
 ```
@@ -68,26 +69,9 @@ Created a new tsconfig.json with:
 You can learn more at https://aka.ms/tsconfig
 ```
 
+#### Initialize Linter
 ```
 npx eslint --init
-```
-
-```
-You can also run this command directly using 'npm init @eslint/config'.
-✔ How would you like to use ESLint? · style
-✔ What type of modules does your project use? · commonjs
-✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / <Yes>
-✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · prompt
-✔ What format do you want your config file to be in? · JavaScript
-✔ What style of indentation do you use? · tab
-✔ What quotes do you use for strings? · double
-✔ What line endings do you use? · unix
-✔ Do you require semicolons? · No / <Yes>
-The config that you've selected requires the following dependencies: ...
-✔ Would you like to install them now? · No / <Yes>
-✔ Which package manager do you want to use? · yarn
 ```
 
 ```
@@ -110,43 +94,7 @@ yarn add -D eslint-config-standard-with-typescript
 yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-n eslint-plugin-promise
 ```
 
-```
-module.exports = {
-	"env": {
-		"commonjs": true,
-		"es2021": true,
-		"node": true
-	},
-	"extends": ["eslint:recommended","plugin:@typescript-eslint/recommended"],
-	"parser": "@typescript-eslint/parser",
-	"parserOptions": {
-		"ecmaVersion": "latest"
-	},
-	"plugins": ["@typescript-eslint"],
-	"rules": {
-		"indent": ["error","tab"],
-		"linebreak-style": ["error","unix"],
-		"quotes": ["error","double"],
-		"semi": ["error","always"],
-	}
-};
-
-```
-
-
-```
-yarn add -D eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser
-```
-
-```
-yarn add -D eslint-config-airbnb-base eslint-config-airbnb-typescript
-```
-
-
-https://github.com/airbnb/javascript
-https://github.com/iamturns/eslint-config-airbnb-typescript
-https://www.npmjs.com/package/eslint-config-airbnb-base
-https://www.npmjs.com/package/eslint-config-airbnb-typescript
+## References
 https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
