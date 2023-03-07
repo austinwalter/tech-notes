@@ -113,3 +113,9 @@ https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
 https://prettier.io/docs/en/install.html
+
+
+## Interesting Problem
+https://github.com/typescript-eslint/typescript-eslint/issues/1824
+https://github.com/typescript-eslint/typescript-eslint/blob/main/packages/eslint-plugin/src/rules/indent.ts
+https://github.com/eslint/eslint/blob/main/lib/rules/indent.js
