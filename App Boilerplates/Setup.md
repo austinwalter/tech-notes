@@ -110,7 +110,9 @@ coverage
 
 #### Husky
 ```
-yarn add -D husky pretty-quick
+npx husky-init # add --yarn2 for Yarn 2
+yarn add -D pretty-quick
+yarn husky set .husky/pre-commit "npx pretty-quick --staged"
 ```
 
 ```
