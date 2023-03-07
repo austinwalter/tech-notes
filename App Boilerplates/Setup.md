@@ -130,3 +130,7 @@ module.exports = {
 
 ```
 
+
+```
+yarn add -D eslint-config-airbnb-base
+```
