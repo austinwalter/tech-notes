@@ -125,7 +125,7 @@ https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
 https://prettier.io/docs/en/install.html
-
+https://typicode.github.io/husky/#/
 
 ## Interesting Problem
 https://github.com/typescript-eslint/typescript-eslint/issues/1824
