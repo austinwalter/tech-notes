@@ -139,6 +139,10 @@ yarn add -D eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin @ty
 yarn add -D eslint-config-airbnb-base eslint-config-airbnb-typescript
 ```
 
+
+https://github.com/airbnb/javascript
 https://github.com/iamturns/eslint-config-airbnb-typescript
 https://www.npmjs.com/package/eslint-config-airbnb-base
 https://www.npmjs.com/package/eslint-config-airbnb-typescript
+https://github.com/tsconfig/bases
+https://typestrong.org/ts-node/docs/installation
