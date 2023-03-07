@@ -108,6 +108,16 @@ build
 coverage
 ```
 
+#### Husky
+```
+yarn add -D husky pretty-quick
+```
+
+```
+
+```
+
+
 ## References
 https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
