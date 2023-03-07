@@ -135,5 +135,9 @@ module.exports = {
 yarn add -D eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
 
+```
+yarn add -D eslint-config-airbnb-base eslint-config-airbnb-typescript
+```
 
-https://github.com/iamturns/eslint-config-airbnb-typescript
+https://www.npmjs.com/package/eslint-config-airbnb-base
+https://www.npmjs.com/package/eslint-config-airbnb-typescript
