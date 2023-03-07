@@ -100,29 +100,14 @@ You can also run this command directly using 'npm init @eslint/config'.
 ✔ How would you like to define a style for your project? · guide
 ✔ Which style guide do you want to follow? · standard-with-typescript
 ✔ What format do you want your config file to be in? · JavaScript
-Checking peerDependencies of eslint-config-standard-with-typescript@latest
-The config that you've selected requires the following dependencies:
-
-eslint-config-standard-with-typescript@latest @typescript-eslint/eslint-plugin@^5.0.0 eslint@^8.0.1 eslint-plugin-import@^2.25.2 eslint-plugin-n@^15.0.0 eslint-plugin-promise@^6.0.0 typescript@*
-✔ Would you like to install them now? · No / <Yes>
-✔ Which package manager do you want to use? · yarn
-Installing eslint-config-standard-with-typescript@latest, @typescript-eslint/eslint-plugin@^5.0.0, eslint@^8.0.1, eslint-plugin-import@^2.25.2, eslint-plugin-n@^15.0.0, eslint-plugin-promise@^6.0.0, typescript@*
-yarn add v1.22.19
+The config that you've selected requires the following dependencies: ...
+✔ Would you like to install them now? · <No> / Yes
+Successfully created .eslintrc.js file in ...
 ```
 
 ```
-The config that you've selected requires the following dependencies:
-
-eslint-config-standard-with-typescript@latest
-@typescript-eslint/eslint-plugin@^5.0.0
-eslint@^8.0.1 eslint-plugin-import@^2.25.2
-eslint-plugin-n@^15.0.0
-eslint-plugin-promise@^6.0.0
-typescript@*
-✔ Would you like to install them now? · No / <Yes>
-✔ Which package manager do you want to use? · yarn
-Installing eslint-config-standard-with-typescript@latest, @typescript-eslint/eslint-plugin@^5.0.0, eslint@^8.0.1, eslint-plugin-import@^2.25.2, eslint-plugin-n@^15.0.0, eslint-plugin-promise@^6.0.0, typescript@*
-yarn add v1.22.19
+yarn add -D eslint-config-standard-with-typescript
+yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-n eslint-plugin-promise
 ```
 
 ```
