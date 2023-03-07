@@ -146,3 +146,4 @@ https://www.npmjs.com/package/eslint-config-airbnb-base
 https://www.npmjs.com/package/eslint-config-airbnb-typescript
 https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
+https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
