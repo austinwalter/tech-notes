@@ -94,6 +94,12 @@ yarn add -D eslint-config-standard-with-typescript
 yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-n eslint-plugin-promise
 ```
 
+#### Prettier
+
+```
+yarn add -D prettier
+```
+
 ## References
 https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
