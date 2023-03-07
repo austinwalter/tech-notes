@@ -97,7 +97,7 @@ yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-
 #### Prettier
 
 ```
-yarn add -D --save-exact prettier
+yarn add -D --exact prettier
 ```
 
 ## References
