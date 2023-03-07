@@ -132,5 +132,5 @@ module.exports = {
 
 
 ```
-yarn add -D eslint-config-airbnb-base
+yarn add -D eslint-config-airbnb-typescript @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
