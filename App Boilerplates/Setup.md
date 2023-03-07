@@ -101,7 +101,20 @@ touch .prettierrc.json
 touch .prettierignore
 ```
 
+`.prettierrc.json`
+```
+
+```
+
+`.prettierignore`
+```
+# Ignore artifacts:
+build
+coverage
+```
+
 ## References
 https://github.com/tsconfig/bases
 https://typestrong.org/ts-node/docs/installation
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
+https://prettier.io/docs/en/install.html
