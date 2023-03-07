@@ -115,10 +115,9 @@ yarn add -D pretty-quick
 yarn husky set .husky/pre-commit "npx pretty-quick --staged"
 ```
 
-```
-
-```
-
+https://blog.typicode.com/husky-git-hooks-javascript-config/
+https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
+https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
 
 ## References
 https://github.com/tsconfig/bases
@@ -126,6 +125,11 @@ https://typestrong.org/ts-node/docs/installation
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
 https://prettier.io/docs/en/install.html
 https://typicode.github.io/husky/#/
+https://github.com/othneildrew/Best-README-Template
+https://github.com/jsynowiec/node-typescript-boilerplate
+https://nodejs.org/en/docs/guides/getting-started-guide/
+https://www.digitalocean.com/community/tutorials/typescript-new-project
+https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
 
 ## Interesting Problem
 https://github.com/typescript-eslint/typescript-eslint/issues/1824
