@@ -97,6 +97,8 @@ yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-
 #### Prettier
 ```
 yarn add -D --exact prettier
+touch .prettierrc.json
+touch .prettierignore
 ```
 
 ## References
