@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Boilerplates/Development.md",
+                    "file": "Boilerplates/Analytics & Management.md",
                     "mode": "source",
                     "source": false
                   }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boilerplates/Development.md",
+                "file": "Boilerplates/Analytics & Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boilerplates/Development.md"
+                "file": "Boilerplates/Analytics & Management.md"
               }
             }
           }
@@ -142,15 +142,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7af3ad1308b965f8",
+  "active": "417fc756cf6045ec",
   "lastOpenFiles": [
+    "Boilerplates/Fullstack/Checklist.md",
+    "Boilerplates/Dev Env/Checklist.md",
+    "Boilerplates/Dev Env",
+    "Boilerplates/Frontend/Checklist.md",
+    "Boilerplates/Analytics & Management.md",
+    "Boilerplates/Frontend",
     "Boilerplates/Backend/Checklist.md",
+    "Boilerplates/Fullstack",
     "Boilerplates/Backend/Setup.md",
-    "Boilerplates/App - Frontend Boilerplate.md",
-    "Boilerplates/App - Fullstack Checklist.md",
     "Boilerplates/Backend",
     "Interesting Problem.md",
-    "Boilerplates/Development.md",
     "Tech Notes/TypeScript/Priority Queue.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
@@ -172,10 +176,7 @@
     "Tech Notes/TypeScript/Control Flow Analysis.pdf",
     "Tech Notes/TypeScript/TypeScript Control Flow Analysis.pdf",
     "Tech Notes/TypeScript/TypeScript Classes.pdf",
-    "Tech Notes/TypeScript/typescript-types.pdf",
     "Credder/Credder - Notes.md",
-    "_media/TypeScript Types.pdf",
-    "Tech Notes/TypeScript/TypeScript Interfaces.pdf",
     "Credder/metrics.md",
     "_media/typescript-type-guards.png",
     "_media/typescript-if-statements.png",
@@ -187,8 +188,6 @@
     "_media/typescript-assignments.png",
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
-    "Interviewing/Behavioral Questions.md",
-    "Movies.md",
-    "TV Shows.md"
+    "Interviewing/Behavioral Questions.md"
   ]
 }

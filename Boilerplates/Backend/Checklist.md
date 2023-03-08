@@ -1,6 +1,6 @@
 # Backend Project Checklist
 
-### [[Frontend Boilerplate]]
+### [[Boilerplates/Frontend/Checklist]]
 
 ### Boilerplate App?
 https://github.com/chocolat-chaud-io/stator

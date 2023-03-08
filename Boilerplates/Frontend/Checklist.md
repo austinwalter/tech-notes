@@ -1,6 +1,4 @@
-# Setup New Project
-
-### [[Checklist]]
+# Front-End Project Checklist
 
 #### Main Setup
 Add README Template

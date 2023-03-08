@@ -1,4 +1,4 @@
-# Personal Environment Boilerplate
+# Personal Dev Environment Checklist
 
 ## Development Containers
 https://code.visualstudio.com/docs/devcontainers/containers
