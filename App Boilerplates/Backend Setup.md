@@ -27,21 +27,21 @@ coverage
 *.log
 ```
 
-#### Initialize `package.json` with `yarn`
+#### Initialize `package.json` with `npm`
 ```
-pnpm init
+npm init
 ```
 
 ```
-question name (node-boilerplate): 
-question version (1.0.0): 0.0.0
-question description: A Node.js project
-question entry point (index.js): index.ts
-question repository url: 
-question author (austinwalter <awalterdev@gmail.com>): 
-question license (MIT): 
-question private: false
-success Saved package.json
+package name: (node-boilerplate) 
+version: (1.0.0) 0.0.0
+description: A Node.js project
+entry point: (index.js) index.ts
+test command: 
+git repository: 
+keywords: 
+author: austinwalter <awalterdev@gmail.com>
+license: (ISC) MIT
 ```
 
 #### Install TypeScript, linter and Jest
