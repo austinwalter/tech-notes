@@ -98,8 +98,23 @@ printf "node_modules\ndist" > .eslintignore
 
 ```
 npx eslint .
+npx eslint --ignore-path .eslintignore --ext .ts .
 ```
 
+```
+// package.json
+{
+  // ...
+  "scripts": {
+    "lint": "eslint --ignore-path .eslintignore --ext .js,.ts ."
+   },
+  // ...
+}
+```
+
+```
+pnpm run lint -- --fix
+```
 
 #### Prettier
 ```
