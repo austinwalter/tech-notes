@@ -120,9 +120,23 @@ pnpm run lint --fix
 ```
 pnpm add -D --save-exact prettier
 printf "{}" > .prettierrc.json
-printf "dist" > .prettierignore
+cp .gitignore .prettierignore
 ```
 
+```
+npx prettier --write ./src
+```
+
+```
+// package.json
+{
+  // ...
+  "scripts": {
+    "format": "prettier --ignore-path .prettierignore --write src/"
+   },
+  // ...
+}
+```
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
