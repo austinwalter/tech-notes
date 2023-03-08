@@ -84,17 +84,12 @@ npx eslint --init
 
 ```
 You can also run this command directly using 'npm init @eslint/config'.
-✔ How would you like to use ESLint? · style
+✔ How would you like to use ESLint? · problems
 ✔ What type of modules does your project use? · esm
 ✔ Which framework does your project use? · none
-✔ Does your project use TypeScript? · No / <Yes>
+✔ Does your project use TypeScript? · No / Yes
 ✔ Where does your code run? · node
-✔ How would you like to define a style for your project? · guide
-✔ Which style guide do you want to follow? · standard-with-typescript
-✔ What format do you want your config file to be in? · JavaScript
-The config that you've selected requires the following dependencies: ...
-✔ Would you like to install them now? · <No> / Yes
-Successfully created .eslintrc.js file in ...
+✔ What format do you want your config file to be in? · JSON
 ```
 
 ```
