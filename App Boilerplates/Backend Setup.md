@@ -76,6 +76,7 @@ You can learn more at https://aka.ms/tsconfig
 ```
 npx tsc --watch
 ```
+
 #### Initialize Linter
 ```
 npx eslint --init
