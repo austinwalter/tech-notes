@@ -1,4 +1,5 @@
-# Analytics & Management App
+# CRM & Analytics App Checklist
+
 * Main Application Admin
 * Jobs/Workers Management
 * Search Indexing Visualization

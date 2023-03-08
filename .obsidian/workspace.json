@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Boilerplates/Analytics & Management.md",
+                    "file": "Tech Notes/Computer Science/Concepts.md",
                     "mode": "source",
                     "source": false
                   }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boilerplates/Analytics & Management.md",
+                "file": "Tech Notes/Computer Science/Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boilerplates/Analytics & Management.md"
+                "file": "Tech Notes/Computer Science/Concepts.md"
               }
             }
           }
@@ -144,11 +144,12 @@
   },
   "active": "417fc756cf6045ec",
   "lastOpenFiles": [
+    "Boilerplates/CRM/Checklist.md",
+    "Boilerplates/CRM",
     "Boilerplates/Fullstack/Checklist.md",
     "Boilerplates/Dev Env/Checklist.md",
     "Boilerplates/Dev Env",
     "Boilerplates/Frontend/Checklist.md",
-    "Boilerplates/Analytics & Management.md",
     "Boilerplates/Frontend",
     "Boilerplates/Backend/Checklist.md",
     "Boilerplates/Fullstack",
@@ -175,7 +176,6 @@
     "Tech Notes/TypeScript/Classes.pdf",
     "Tech Notes/TypeScript/Control Flow Analysis.pdf",
     "Tech Notes/TypeScript/TypeScript Control Flow Analysis.pdf",
-    "Tech Notes/TypeScript/TypeScript Classes.pdf",
     "Credder/Credder - Notes.md",
     "Credder/metrics.md",
     "_media/typescript-type-guards.png",
