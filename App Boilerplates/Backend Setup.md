@@ -113,13 +113,13 @@ npx eslint --ignore-path .eslintignore --ext .ts .
 ```
 
 ```
-pnpm run lint -- --fix
+pnpm run lint --fix
 ```
 
 #### Prettier
 ```
-yarn add -D --exact prettier
-echo {}> .prettierrc.json
+pnpm add -D --exact prettier
+printf "{}" > .prettierrc.json
 touch .prettierignore
 ```
 
