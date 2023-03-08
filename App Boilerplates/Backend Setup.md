@@ -93,7 +93,7 @@ You can also run this command directly using 'npm init @eslint/config'.
 ```
 
 ```
-echo node_modules> .eslintignore
+printf "node_modules\ndist" > .eslintignore
 ```
 
 #### Prettier
