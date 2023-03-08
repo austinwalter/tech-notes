@@ -97,6 +97,10 @@ The config that you've selected requires the following dependencies: ...
 Successfully created .eslintrc.js file in ...
 ```
 
+```
+echo node_modules> .eslintignore
+```
+
 #### Prettier
 ```
 yarn add -D --exact prettier
