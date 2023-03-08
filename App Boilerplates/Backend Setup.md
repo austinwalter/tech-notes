@@ -44,16 +44,20 @@ author: austinwalter <awalterdev@gmail.com>
 license: (ISC) MIT
 ```
 
-#### Install TypeScript, linter and Jest
+#### Install TypeScript and Linter
 ```
 pnpm add -D typescript @types/node ts-node
 pnpm add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+```
+
+#### Jest
+```
 pnpm add -D jest ts-jest @types/jest
 ```
 
 #### Initialize TypeScript Config
 ```
-npx typescript --init
+npx tsc --init
 ```
 
 ```
