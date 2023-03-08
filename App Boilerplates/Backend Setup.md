@@ -93,11 +93,6 @@ The config that you've selected requires the following dependencies: ...
 Successfully created .eslintrc.js file in ...
 ```
 
-```
-yarn add -D eslint-config-standard-with-typescript
-yarn add -D @typescript-eslint/eslint-plugin eslint-plugin-import eslint-plugin-n eslint-plugin-promise
-```
-
 #### Prettier
 ```
 yarn add -D --exact prettier
