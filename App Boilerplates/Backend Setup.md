@@ -145,6 +145,12 @@ pnpm run format
 ```
 pnpm add -D eslint-config-prettier
 ```
+
+```
+// .eslintrc.json
+"extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier"],
+```
+
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
