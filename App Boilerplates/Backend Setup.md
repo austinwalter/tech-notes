@@ -118,16 +118,9 @@ pnpm run lint --fix
 
 #### Prettier
 ```
-pnpm add -D --exact prettier
+pnpm add -D --save-exact prettier
 printf "{}" > .prettierrc.json
-touch .prettierignore
-```
-
-`.prettierignore`
-```
-# Ignore artifacts:
-build
-coverage
+printf "dist" > .prettierignore
 ```
 
 #### Husky
