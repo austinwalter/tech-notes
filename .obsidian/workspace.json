@@ -17,13 +17,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "App Boilerplates/Backend Setup.md",
+                    "file": "Tech Notes/Computer Science/Notes - Data Structures.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4b4a168fabc20cd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech Notes/TypeScript/Priority Queue.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "581dc3dd2179bdd8",
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting Problem.md",
+                "file": "Tech Notes/TypeScript/Priority Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting Problem.md"
+                "file": "Tech Notes/TypeScript/Priority Queue.md"
               }
             }
           }
@@ -140,8 +153,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a70783a7a316662c",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Data Structures.md",
+    "Tech Notes/TypeScript/Priority Queue.md",
+    "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "App Boilerplates/Backend Setup.md",
     "Interesting Problem.md",
     "Tech Notes/Computer Science/Concepts.md",
@@ -180,8 +196,6 @@
     "Tech Notes/TypeScript",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
-    "TV Shows.md",
-    "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
-    "Tech Notes/Computer Science/Notes - Data Structures.md"
+    "TV Shows.md"
   ]
 }
