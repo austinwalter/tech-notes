@@ -55,6 +55,8 @@ pnpm add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
 pnpm add -D jest ts-jest @types/jest
 ```
 
+https://plainenglish.io/blog/beginners-guide-to-testing-jest-with-node-typescript
+
 #### Initialize TypeScript Config
 ```
 npx tsc --init
@@ -142,6 +144,7 @@ npx prettier --write ./src
 pnpm run format
 ```
 
+##### Avoiding conflicts when working with ESLint and Prettier
 ```
 pnpm add -D eslint-config-prettier
 ```
@@ -151,6 +154,8 @@ pnpm add -D eslint-config-prettier
 "extends": ["eslint:recommended", "plugin:@typescript-eslint/recommended", "prettier"],
 ```
 
+https://blog.logrocket.com/linting-typescript-eslint-prettier/
+https://blog.logrocket.com/linting-typescript-eslint-prettier/
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
@@ -160,7 +165,6 @@ npx husky add .husky/pre-commit "npx format"
 https://blog.typicode.com/husky-git-hooks-javascript-config/
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
 https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
-https://blog.logrocket.com/linting-typescript-eslint-prettier/
 
 ## References
 https://github.com/tsconfig/bases
