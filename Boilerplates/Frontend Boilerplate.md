@@ -1,6 +1,6 @@
 # Setup New Project
 
-### [[App - Backend Boilerplate]]
+### [[Checklist]]
 
 #### Main Setup
 Add README Template

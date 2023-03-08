@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "App Boilerplates/Backend Setup.md",
+                    "file": "Boilerplates/Development.md",
                     "mode": "source",
                     "source": false
                   }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Boilerplates/Backend Setup.md",
+                "file": "Boilerplates/Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Boilerplates/Backend Setup.md"
+                "file": "Boilerplates/Development.md"
               }
             }
           }
@@ -142,11 +142,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "417fc756cf6045ec",
+  "active": "7af3ad1308b965f8",
   "lastOpenFiles": [
+    "Boilerplates/Backend/Checklist.md",
+    "Boilerplates/Backend/Setup.md",
+    "Boilerplates/App - Frontend Boilerplate.md",
+    "Boilerplates/App - Fullstack Checklist.md",
+    "Boilerplates/Backend",
     "Interesting Problem.md",
-    "App Boilerplates/Backend Setup.md",
-    "App Boilerplates/Development Containers.md",
+    "Boilerplates/Development.md",
     "Tech Notes/TypeScript/Priority Queue.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
@@ -183,7 +187,6 @@
     "_media/typescript-assignments.png",
     "_media/typescript-types.png",
     "_media/typescript-interfaces.png",
-    "Tech Notes/TypeScript",
     "Interviewing/Behavioral Questions.md",
     "Movies.md",
     "TV Shows.md"
