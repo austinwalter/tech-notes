@@ -96,6 +96,11 @@ You can also run this command directly using 'npm init @eslint/config'.
 printf "node_modules\ndist" > .eslintignore
 ```
 
+```
+npx eslint .
+```
+
+
 #### Prettier
 ```
 yarn add -D --exact prettier
