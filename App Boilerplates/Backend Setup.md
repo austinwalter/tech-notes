@@ -111,10 +111,7 @@ coverage
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
-
-
-yarn add -D pretty-quick
-yarn husky set .husky/pre-commit "npx pretty-quick --staged"
+npx husky add .husky/pre-commit "npx lint-staged"
 ```
 
 https://blog.typicode.com/husky-git-hooks-javascript-config/
