@@ -46,9 +46,9 @@ license: (ISC) MIT
 
 #### Install TypeScript, linter and Jest
 ```
-yarn add -D typescript @types/node ts-node
-yarn add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
-yarn add -D jest ts-jest @types/jest
+pnpm add -D typescript @types/node ts-node
+pnpm add -D eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin
+pnpm add -D jest ts-jest @types/jest
 ```
 
 #### Initialize TypeScript Config
