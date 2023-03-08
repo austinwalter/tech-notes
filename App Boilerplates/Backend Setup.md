@@ -29,7 +29,7 @@ coverage
 
 #### Initialize `package.json` with `yarn`
 ```
-yarn init
+pnpm init
 ```
 
 ```
