@@ -111,7 +111,7 @@ coverage
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
-npx husky add .husky/pre-commit "npx lint-staged"
+npx husky add .husky/pre-commit "npx format"
 ```
 
 https://blog.typicode.com/husky-git-hooks-javascript-config/
