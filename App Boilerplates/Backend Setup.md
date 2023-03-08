@@ -137,6 +137,11 @@ npx prettier --write ./src
   // ...
 }
 ```
+
+```
+pnpm run format
+```
+
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
@@ -146,6 +151,7 @@ npx husky add .husky/pre-commit "npx format"
 https://blog.typicode.com/husky-git-hooks-javascript-config/
 https://medium.com/@oxodesign/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-2-f129188ce404
 https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
+https://blog.logrocket.com/linting-typescript-eslint-prettier/
 
 ## References
 https://github.com/tsconfig/bases
