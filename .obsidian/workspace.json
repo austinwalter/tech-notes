@@ -10,49 +10,26 @@
           {
             "id": "c700282531e89371",
             "type": "tabs",
+            "dimension": 72.23958333333333,
             "children": [
-              {
-                "id": "f279afb1d16da9dc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tech Notes/Computer Science/Notes - Data Structures.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "4b4a168fabc20cd9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tech Notes/TypeScript/Priority Queue.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
               {
                 "id": "417fc756cf6045ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "App Boilerplates/Development Containers.md",
+                    "file": "App Boilerplates/Backend Setup.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "581dc3dd2179bdd8",
             "type": "tabs",
+            "dimension": 27.760416666666664,
             "children": [
               {
                 "id": "a70783a7a316662c",
@@ -127,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "App Boilerplates/Development Containers.md",
+                "file": "App Boilerplates/Backend Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "App Boilerplates/Development Containers.md"
+                "file": "App Boilerplates/Backend Setup.md"
               }
             }
           }
@@ -167,8 +144,8 @@
   },
   "active": "417fc756cf6045ec",
   "lastOpenFiles": [
-    "Tech Notes/TypeScript/Priority Queue.md",
     "App Boilerplates/Development Containers.md",
+    "Tech Notes/TypeScript/Priority Queue.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
     "App Boilerplates/Backend Setup.md",
