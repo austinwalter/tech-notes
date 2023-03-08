@@ -142,6 +142,9 @@ npx prettier --write ./src
 pnpm run format
 ```
 
+```
+pnpm add -D eslint-config-prettier
+```
 #### Husky
 ```
 pnpm dlx husky-init && pnpm install
