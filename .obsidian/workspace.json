@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Tech Notes/Computer Science/Concepts.md",
+                    "file": "Interesting Problem.md",
                     "mode": "source",
                     "source": false
                   }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md",
+                "file": "Interesting Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Concepts.md"
+                "file": "Interesting Problem.md"
               }
             }
           }
@@ -144,6 +144,9 @@
   },
   "active": "417fc756cf6045ec",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Notes - Algorithms.md",
+    "Tech Notes/Computer Science/Dynamic Programming.md",
+    "Tech Notes/Computer Science/Concepts.md",
     "Boilerplates/CRM/Checklist.md",
     "Boilerplates/CRM",
     "Boilerplates/Fullstack/Checklist.md",
@@ -159,9 +162,6 @@
     "Tech Notes/TypeScript/Priority Queue.md",
     "Tech Notes/Computer Science/Notes - Data Structures.md",
     "Tech Notes/Computer Science/Notes - Trees & Graphs.md",
-    "Tech Notes/Computer Science/Concepts.md",
-    "Tech Notes/Computer Science/Notes - Algorithms.md",
-    "Tech Notes/Computer Science/Dynamic Programming.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Project Ideas/Project - Git Notes Summary CLI.md",
     "Tech Notes/System Design/Notes.md",
