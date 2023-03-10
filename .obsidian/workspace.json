@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fef9fc7d208acf20",
-        "type": "tabs",
+        "id": "63c6738256273273",
+        "type": "split",
         "children": [
           {
-            "id": "b1832a83624fc5e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
-                "mode": "source",
-                "source": false
+            "id": "fef9fc7d208acf20",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b1832a83624fc5e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "f506e26e5f6336f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54d386fa54637c60",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tech Notes/Computer Science/Data Structures/Heap.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -78,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
+                "file": "Tech Notes/Computer Science/Data Structures/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md"
+                "file": "Tech Notes/Computer Science/Data Structures/Heap.md"
               }
             }
           }
@@ -116,11 +141,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b1832a83624fc5e9",
+  "active": "54d386fa54637c60",
   "lastOpenFiles": [
+    "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
+    "Tech Notes/Computer Science/Data Structures/Heap.md",
     "Tech Notes/Computer Science/Data Structures/Overview.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
-    "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
     "Tech Notes/Computer Science/Data Structures",
     "Tech Notes/Computer Science/Notes - Math.md",
     "Tech Notes/Computer Science/Notes - Algorithms.md",
@@ -153,7 +179,6 @@
     "Tech Notes/TypeScript/Classes.pdf",
     "Tech Notes/TypeScript/Control Flow Analysis.pdf",
     "Credder/Credder - Notes.md",
-    "Credder/metrics.md",
     "_media/typescript-type-guards.png",
     "_media/typescript-if-statements.png",
     "_media/typescript-expressions.png",

@@ -1,6 +1,5 @@
 # Priority Queue
 
-
 ## Implementation
 
 ### Types
