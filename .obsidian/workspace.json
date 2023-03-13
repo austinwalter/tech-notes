@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Notes/Computer Science/Data Structures/Heap.md",
+                "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Notes/Computer Science/Data Structures/Heap.md"
+                "file": "Tech Notes/Computer Science/Data Structures/Priority Queue.md"
               }
             }
           }
@@ -141,10 +141,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "54d386fa54637c60",
+  "active": "b1832a83624fc5e9",
   "lastOpenFiles": [
-    "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
     "Tech Notes/Computer Science/Data Structures/Heap.md",
+    "Tech Notes/Computer Science/Data Structures/Priority Queue.md",
     "Tech Notes/Computer Science/Data Structures/Overview.md",
     "Tech Notes/Computer Science/Notes - Big O Notation.md",
     "Tech Notes/Computer Science/Data Structures",
